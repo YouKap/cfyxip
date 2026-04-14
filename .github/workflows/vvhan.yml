@@ -101,7 +101,7 @@ jobs:
             echo "没有检测到文件改动，跳过提交。"
           else
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M:%S')
-            git commit -m "Auto Sync IPs (vvHan): $BJ_TIME"
+            git commit -m "Auto Update IPs (vvHan): $BJ_TIME"
             
             # 解决推送冲突的核心：拉取远程并变基
             git pull --rebase origin main
