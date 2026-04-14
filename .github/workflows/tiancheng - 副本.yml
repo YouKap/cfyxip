@@ -2,7 +2,7 @@ name: tiancheng
 
 on:
   workflow_dispatch:
-
+  
 # 必须有写入权限，否则无法推送更新
 permissions:
   contents: write
@@ -75,7 +75,7 @@ jobs:
             fi
           done
 
-          # 4. 对比逻辑 (以 all.txt 的节点变化为判断依据)
+          # 4. 对比逻辑 (排除首尾行干扰)
           OLD_FILE="tiancheng/all.txt"
           SHOULD_COMMIT=false
 
@@ -96,37 +96,17 @@ jobs:
           # 5. 构建最终文件与备份
           if [ "$SHOULD_COMMIT" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
-            MINI_FILE="tiancheng/mini.txt"
-            
-            # 备份逻辑：仅针对 all.txt 进行历史归档
             if [ -f "$OLD_FILE" ]; then
               BACKUP_NAME=$(TZ='Asia/Shanghai' date +%Y-%m-%d-%H_%M_%S)
               mkdir -p tiancheng/old
               cp "$OLD_FILE" "tiancheng/old/${BACKUP_NAME}.txt"
             fi
             
-            # 统一尾行
-            FOOTER="r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢天诚 ▲"
-
-            # 生成 All 版
-            echo "hongkongairport.com:443#▼ 优选IP All版 | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$OLD_FILE"
+            # 写入新内容
+            echo "hongkongairport.com:443#▼ 优选IP | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$OLD_FILE"
             [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "$OLD_FILE"
-            echo "$FOOTER" >> "$OLD_FILE"
-
-            # 生成 Mini 版 (每组取前2个)
-            echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$MINI_FILE"
-            if [ -f new_nodes.tmp ]; then
-                awk -F'|' '{
-                    label = $2; 
-                    count[label]++; 
-                    if (count[label] <= 2) {
-                        print $0
-                    }
-                }' new_nodes.tmp >> "$MINI_FILE"
-            fi
-            echo "$FOOTER" >> "$MINI_FILE"
+            echo "r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢天诚 ▲" >> "$OLD_FILE"
             
-            echo "COMMIT_TIME=$BJ_TIME" >> $GITHUB_ENV
             echo "changes_detected=true" >> $GITHUB_ENV
           else
             echo "changes_detected=false" >> $GITHUB_ENV
@@ -136,8 +116,7 @@ jobs:
         if: env.changes_detected == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto Update TianCheng IPs (All & Mini): ${{ env.COMMIT_TIME }}"
-          # 提交范围包含两个主文件及其历史备份
-          file_pattern: 'tiancheng/all.txt tiancheng/mini.txt tiancheng/old/*.txt'
+          commit_message: "Auto Update TianCheng IPs: ${{ env.COMMIT_TIME }}"
+          file_pattern: 'tiancheng/all.txt tiancheng/old/*.txt'
           skip_dirty_check: true
           disable_globbing: false
