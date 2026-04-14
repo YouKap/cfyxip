@@ -1,4 +1,4 @@
-digitalocean.com:443#▼ 优选域名 | 关注YouTube@真香定律 ▼
+digitalocean.com:443#▼ 优选域名All版 | 关注YouTube@真香定律 ▼
 pages.dev:443#CF官方 | Pages
 r2.dev:443#CF官方 | R2
 cdnjs.com:443#CF官方 | CDNJS
