@@ -12,31 +12,29 @@ hongkongairport.com:443#企业域名 | 香港AirPort
 glassdoor.com:443#企业域名 | Glassdoor
 udemy.com:443#企业域名 | Udemy
 saas.sin.fan:443#大佬维护 | MIYU
-cu.877774.xyz:443#大佬维护 | QMS
 skk.moe:443#大佬维护 | Sukka
 bestcf.030101.xyz:443#大佬维护 | MingYu
+cu.877774.xyz:443#大佬维护 | QMS
 cf.090227.xyz:443#大佬维护 | CMLiu
 cf.tencentapp.cn:443#大佬维护 | KTFF
 ip.cf.cname.vvhan.com:443#大佬维护 | vvHan
-store.ubi.com:443#育碧商城
-staticdelivery.nexusmods.com:443#NexusMods
 www.visa.cn:443#VISA中国
+www.visa.com.hk:443#VISA香港
+usa.visa.com:443#VISA美国
+store.ubi.com:443#育碧商城
+icook.hk:443#爱料理香港
+openai.com:443#OpenAI
+staticdelivery.nexusmods.com:443#NexusMods
 markmonitor.com:443#MarkMonitor
 cdn.jsdelivr.net:443#jsDelivr
 www.speedtest.net:443#SpeedTest
-icook.hk:443#爱料理香港
-www.visa.com.hk:443#VISA香港
-usa.visa.com:443#VISA美国
 livescore.co.kr:443#LiveScore
 csgo.com:443#CSGO
-ln.edu.hk:443#岭南大学
 biomaterials.ust.hk:443#香港科大
+ln.edu.hk:443#岭南大学
 www.ntu.edu.sg:443#南洋理工
 www.ox.ac.uk:443#牛津大学
 www.researchgate.net:443#ResearchGate
-time.is:443#TimeIs
-ip.sb:443#IP.SB
 cloudflare.182682.xyz:443#WeTest
 bestcf.top:443#VPS789
-cdn.091224.xyz:443#ZSFan
 r2.dev:443#▲ 优选域名 | 4-17 | YouTube@真香定律 ▲
