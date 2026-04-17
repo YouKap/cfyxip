@@ -28,10 +28,10 @@ www.visa.com.hk:443#VISA香港
 usa.visa.com:443#VISA美国
 store.ubi.com:443#育碧商城
 icook.hk:443#爱料理香港
+cdn.jsdelivr.net:443#jsDelivr
 openai.com:443#OpenAI
 staticdelivery.nexusmods.com:443#NexusMods
 markmonitor.com:443#MarkMonitor
-cdn.jsdelivr.net:443#jsDelivr
 www.speedtest.net:443#SpeedTest
 livescore.co.kr:443#LiveScore
 csgo.com:443#CSGO
