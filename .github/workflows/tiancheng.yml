@@ -106,15 +106,15 @@ jobs:
             fi
             
             # 统一尾行
-            FOOTER="r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢天诚 ▲"
+            FOOTER="r2.dev:443#▲ 优选IP | Youtube@zhenxiangdinglv | 感谢天诚"
 
             # 生成 All 版
-            echo "hongkongairport.com:443#▼ 优选IP All版 | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$OLD_FILE"
+            echo "hongkongairport.com:443#▼ 优选IP All版 | ${BJ_TIME} | YouTube@真香定律" > "$OLD_FILE"
             [ -f new_nodes.tmp ] && cat new_nodes.tmp >> "$OLD_FILE"
             echo "$FOOTER" >> "$OLD_FILE"
 
             # 生成 Mini 版 (每组取最多前3个)
-            echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | 关注YouTube@真香定律 ▼" > "$MINI_FILE"
+            echo "hongkongairport.com:443#▼ 优选IP Mini版 | ${BJ_TIME} | YouTube@真香定律" > "$MINI_FILE"
             if [ -f new_nodes.tmp ]; then
                 awk -F'|' '{
                     label = $2; 
