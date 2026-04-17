@@ -1,0 +1,83 @@
+name: vps789
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: 安装环境
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: 抓取原始数据
+        run: python vps789/crawler.py
+
+      - name: 比对变更并处理 Top文件
+        run: |
+          # 1. 设置 Git 信息
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+          # 2. 获取北京时间
+          BEIJING_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
+          echo "当前北京时间: $BEIJING_TIME"
+
+          # 3. 进入目录并检查 domains.txt 是否有实际内容变化
+          cd vps789/
+          git add domains.txt
+
+          # 比对暂存区与上次提交的区别
+          if git diff --cached --quiet domains.txt; then
+            echo "domains.txt 内容无变化，跳过生成和提交。"
+          else
+            echo "检测到域名列表有更新，开始加工 TopX 文件..."
+
+            # 定义加工函数
+            generate_top() {
+              local count=$1
+              local file="top${count}.txt"
+              local head="hongkongairport.com:443#▼ 优选域名TOP${count} | ${BEIJING_TIME} | 关注YouTube@真香定律 ▼"
+              local foot="r2.dev:443#▲ 优选IP | 关注Youtube@真香定律 | 感谢VPS789 ▲"
+              
+              # 写入首行
+              echo "$head" > "$file"
+              
+              # 核心改动：截取前 N 行 -> 处理成 域名:443#域名 -> 追加
+              # sed 解释: 's/.*/&:443#&/' 意思是在每行内容(&)后加上 :443# 再加上原内容(&)
+              head -n "$count" domains.txt | sed 's/.*/&:443#&/' >> "$file"
+              
+              # 追加尾行
+              echo "$foot" >> "$file"
+              
+              echo "生成完成: $file"
+            }
+
+            # 执行任务
+            generate_top 50
+            generate_top 20
+            generate_top 10
+
+            # 4. 提交所有变更
+            git add *.txt
+            git commit -m "vps789 $BEIJING_TIME"
+            
+            # 拉取并推送
+            git pull --rebase origin main
+            git push origin main
+          fi
