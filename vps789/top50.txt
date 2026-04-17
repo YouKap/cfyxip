@@ -1,4 +1,4 @@
-hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 05:32 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 06:02 | YouTube@真香定律
 cdn.091224.xyz:443#cdn.091224.xyz
 store.ubi.com:443#store.ubi.com
 cf.090227.xyz:443#cf.090227.xyz
@@ -6,8 +6,8 @@ fenliu.072103.xyz:443#fenliu.072103.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
-yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 saas.sin.fan:443#saas.sin.fan
+yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 yxip.xxxxxxxx.tk:443#yxip.xxxxxxxx.tk
 www.speedtest.net:443#www.speedtest.net
 cdn.262832.xyz:443#cdn.262832.xyz
