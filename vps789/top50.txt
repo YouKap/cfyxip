@@ -1,4 +1,4 @@
-hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 04:32 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 05:02 | YouTube@真香定律
 cdn.091224.xyz:443#cdn.091224.xyz
 store.ubi.com:443#store.ubi.com
 cf.090227.xyz:443#cf.090227.xyz
@@ -10,6 +10,7 @@ yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 saas.sin.fan:443#saas.sin.fan
 www.speedtest.net:443#www.speedtest.net
 cf.3666888.xyz:443#cf.3666888.xyz
+cdn.262832.xyz:443#cdn.262832.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 jobsdb.com:443#jobsdb.com
 encryptedsni.com:443#encryptedsni.com
@@ -17,7 +18,6 @@ www.nexusmods.com:443#www.nexusmods.com
 01-cctv.com:443#01-cctv.com
 www.shopify.com:443#www.shopify.com
 bbs.alipansou.com:443#bbs.alipansou.com
-cdn.262832.xyz:443#cdn.262832.xyz
 nexusmods.com:443#nexusmods.com
 www.mfyx.cn:443#www.mfyx.cn
 101yaoye.com:443#101yaoye.com
@@ -30,6 +30,7 @@ freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cf.godns.cc:443#cf.godns.cc
+www.mc.js.cool:443#www.mc.js.cool
 a.lma.de5.net:443#a.lma.de5.net
 www.swowd.com:443#www.swowd.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -44,7 +45,6 @@ yg12.ygkkk.dpdns.org:443#yg12.ygkkk.dpdns.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cu.877774.xyz:443#cu.877774.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top

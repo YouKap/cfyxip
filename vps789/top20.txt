@@ -1,4 +1,4 @@
-hongkongairport.com:443#▼ 优选域名 TOP20 | 04-18 04:32 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP20 | 04-18 05:02 | YouTube@真香定律
 cdn.091224.xyz:443#cdn.091224.xyz
 store.ubi.com:443#store.ubi.com
 cf.090227.xyz:443#cf.090227.xyz
@@ -10,6 +10,7 @@ yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 saas.sin.fan:443#saas.sin.fan
 www.speedtest.net:443#www.speedtest.net
 cf.3666888.xyz:443#cf.3666888.xyz
+cdn.262832.xyz:443#cdn.262832.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 jobsdb.com:443#jobsdb.com
 encryptedsni.com:443#encryptedsni.com
@@ -17,6 +18,5 @@ www.nexusmods.com:443#www.nexusmods.com
 01-cctv.com:443#01-cctv.com
 www.shopify.com:443#www.shopify.com
 bbs.alipansou.com:443#bbs.alipansou.com
-cdn.262832.xyz:443#cdn.262832.xyz
 nexusmods.com:443#nexusmods.com
 r2.dev:443#▲ 优选域名 | Youtube@zhenxiangdinglv | VPS789 7*24监测
