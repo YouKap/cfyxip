@@ -1,21 +1,21 @@
-hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 15:32 | YouTube@真香定律
+hongkongairport.com:443#▼ 优选域名 TOP50 | 04-18 16:02 | YouTube@真香定律
 101yaoye.com:443#101yaoye.com
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf.godns.cc:443#cf.godns.cc
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.cdzxdz.com:443#www.cdzxdz.com
-cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.mlkj888.com:443#www.mlkj888.com
 cdn.262832.xyz:443#cdn.262832.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 kniu.cc:443#kniu.cc
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
-cf.998866.top:443#cf.998866.top
+1.cf.3666888.xyz:443#1.cf.3666888.xyz
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
+cf.998866.top:443#cf.998866.top
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 cf.090227.xyz:443#cf.090227.xyz
 saas.sin.fan:443#saas.sin.fan
@@ -28,12 +28,7 @@ ys2046.cv:443#ys2046.cv
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.shopify.com:443#www.shopify.com
 openai.com:443#openai.com
-cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 snipaste5.speedip.eu.org:443#snipaste5.speedip.eu.org
-redis.io:443#redis.io
-yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
-www.swowd.com:443#www.swowd.com
 www.mfyx.cn:443#www.mfyx.cn
 www.6i5.com:443#www.6i5.com
 cdn.7zz.cn:443#cdn.7zz.cn
@@ -42,11 +37,16 @@ bbs.alipansou.com:443#bbs.alipansou.com
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cu.877774.xyz:443#cu.877774.xyz
 b3.cfyx.20237737.xyz:443#b3.cfyx.20237737.xyz
+cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+redis.io:443#redis.io
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 a.lma.de5.net:443#a.lma.de5.net
 cf.mubaiovo.top:443#cf.mubaiovo.top
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 r2.dev:443#▲ 优选域名 | Youtube@zhenxiangdinglv | VPS789 7*24监测
