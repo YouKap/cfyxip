@@ -7,4 +7,4 @@ digitalocean.com:443#企业域名 | DigitalOcean
 skk.moe:443#大佬维护 | Sukka
 saas.sin.fan:443#大佬维护 | MIYU
 cf.tencentapp.cn:443#大佬维护 | KTFF
-pages.dev:443#▲ 精选域名 | 4-17 | 优选合集https://bestcf.pages.dev
+pages.dev:443#▲ 精选域名 | 4-17 | 分享好友https://bestcf.pages.dev
