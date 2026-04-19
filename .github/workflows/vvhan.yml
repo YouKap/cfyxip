@@ -78,9 +78,9 @@ jobs:
           # 4. 只有内容变化时才写入文件
           if should_write and ip_nodes:
               final_output = []
-              final_output.append(f"hongkongairport.com:443#▼ 优选IP | {bj_time} | YouTube@真香定律")
+              final_output.append(f"saas.sin.fan:443#▼ 优选IP | {bj_time} | YouTube@真香定律")
               final_output.extend(ip_nodes)
-              final_output.append("r2.dev:443#▲ 优选IP | 分享优选网 bestcf.pages.dev | 感谢vvHan")
+              final_output.append("bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 bestcf.pages.dev | 感谢vvHan")
               
               with open(file_path, "w", encoding="utf-8") as f:
                   f.write("\n".join(final_output))
