@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-21 12:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-21 13:07 | YouTube@真香定律
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 ahblog.cn:443#ahblog.cn
@@ -6,12 +6,11 @@ kniu.cc:443#kniu.cc
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 store.epicgames.com:443#store.epicgames.com
-yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
-go1.dematic.com:443#go1.dematic.com
 cf.090227.xyz:443#cf.090227.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
+go1.dematic.com:443#go1.dematic.com
 cmcc.cc.cd:443#cmcc.cc.cd
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -29,10 +28,8 @@ www.mlkj888.com:443#www.mlkj888.com
 y508.com:443#y508.com
 www.shopify.com:443#www.shopify.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-bbs.alipansou.com:443#bbs.alipansou.com
 cdn.262832.xyz:443#cdn.262832.xyz
 www.mc.js.cool:443#www.mc.js.cool
-www.sage.com:443#www.sage.com
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 cf.xnet.ren:443#cf.xnet.ren
 cdn.2158.cc:443#cdn.2158.cc
@@ -49,4 +46,7 @@ zeas.top:443#zeas.top
 www.5199dy.com:443#www.5199dy.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+cf.v8.longsays.com:443#cf.v8.longsays.com
+openai.com:443#openai.com
+store.ubi.com:443#store.ubi.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测

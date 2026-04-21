@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-21 12:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-21 13:07 | YouTube@真香定律
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 ahblog.cn:443#ahblog.cn
@@ -6,12 +6,11 @@ kniu.cc:443#kniu.cc
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 store.epicgames.com:443#store.epicgames.com
-yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
-go1.dematic.com:443#go1.dematic.com
 cf.090227.xyz:443#cf.090227.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
+go1.dematic.com:443#go1.dematic.com
 cmcc.cc.cd:443#cmcc.cc.cd
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
@@ -19,4 +18,5 @@ saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 cf.godns.cc:443#cf.godns.cc
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+www.jimdo.com:443#www.jimdo.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
