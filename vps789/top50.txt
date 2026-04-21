@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-21 10:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-21 11:07 | YouTube@真香定律
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 www.mlkj888.com:443#www.mlkj888.com
 cdn.091224.xyz:443#cdn.091224.xyz
@@ -6,17 +6,16 @@ ahblog.cn:443#ahblog.cn
 kniu.cc:443#kniu.cc
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
-cdn.555586.xyz:443#cdn.555586.xyz
-yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 test.509666.xyz:443#test.509666.xyz
+yg13.ygkkk.dpdns.org:443#yg13.ygkkk.dpdns.org
 yg3.ygkkk.dpdns.org:443#yg3.ygkkk.dpdns.org
 store.epicgames.com:443#store.epicgames.com
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 avido.cf.3666888.xyz:443#avido.cf.3666888.xyz
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
 go1.dematic.com:443#go1.dematic.com
 www.mfyx.cn:443#www.mfyx.cn
 cf.090227.xyz:443#cf.090227.xyz
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
 www.visa.com.hk:443#www.visa.com.hk
 mogas.com:443#mogas.com
 zeas.top:443#zeas.top
@@ -49,4 +48,5 @@ cf.xnet.ren:443#cf.xnet.ren
 cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
+run.254301.xyz:443#run.254301.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
