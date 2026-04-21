@@ -37,4 +37,4 @@ livescore.co.kr:443#LiveScore
 csgo.com:443#CSGO
 cloudflare.182682.xyz:443#WeTest
 bestcf.top:443#VPS789
-bestcf.030101.xyz:443#▲ 精选域名 | 4-19 | 分享优选网 bestcf.pages.dev
+bestcf.030101.xyz:443#▲ 精选域名 | 4-21 | 分享优选网 bestcf.pages.dev
