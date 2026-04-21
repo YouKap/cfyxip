@@ -1,11 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-21 16:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-21 17:07 | YouTube@真香定律
 cdn.091224.xyz:443#cdn.091224.xyz
 kniu.cc:443#kniu.cc
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 saas.sin.fan:443#saas.sin.fan
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
+cf.727672.xyz:443#cf.727672.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.mlkj888.com:443#www.mlkj888.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -23,6 +24,7 @@ cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 run.254301.xyz:443#run.254301.xyz
+www.swowd.com:443#www.swowd.com
 www.mfyx.cn:443#www.mfyx.cn
 cmcc.cc.cd:443#cmcc.cc.cd
 cdn.7zz.cn:443#cdn.7zz.cn
@@ -38,15 +40,13 @@ www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
 cdn.262832.xyz:443#cdn.262832.xyz
 dnew.cc:443#dnew.cc
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-cf.727672.xyz:443#cf.727672.xyz
+cf.mubaiovo.top:443#cf.mubaiovo.top
+isp.254301.xyz:443#isp.254301.xyz
 101yaoye.com:443#101yaoye.com
 y508.com:443#y508.com
 markmonitor.com:443#markmonitor.com
+www.leics.police.uk:443#www.leics.police.uk
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 nexusmods.com:443#nexusmods.com
-www.5h.com:443#www.5h.com
-cf.mubaiovo.top:443#cf.mubaiovo.top
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
