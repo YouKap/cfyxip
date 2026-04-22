@@ -17,22 +17,22 @@ jobs:
         run: |
           mkdir -p xinyitang3
           BJ_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
-          TARGET_FILE="xinyitang3/ip.txt"
+          # 修改输出文件名为 ipv4.txt
+          TARGET_FILE="xinyitang3/ipv4.txt"
           TMP_NEW="new_processed.tmp"
           TMP_OLD="old_processed.tmp"
           
           # 1. 下载并处理数据
-          # 处理逻辑：读取每一行，将其修改为 "原内容 | IP:端口" 格式
+          # 格式化逻辑：原内容 | IP:端口
           curl -s "https://raw.githubusercontent.com/xinyitang3/rules/refs/heads/main/ip.txt" | grep ":" | while read -r line; do
-            # 提取 # 之前的 IP:端口 部分
             ip_port=$(echo "$line" | cut -d'#' -f1)
             echo "$line | $ip_port" >> "$TMP_NEW"
           done
 
-          # 2. 对比逻辑（排除首尾广告行后的纯数据对比）
+          # 2. 对比逻辑
           HAS_CHANGES=false
           if [ -f "$TARGET_FILE" ]; then
-            # 提取现有文件的中间数据部分（去掉第一行和最后一行）进行比对
+            # 排除首尾广告行进行比对
             sed '1d;$d' "$TARGET_FILE" > "$TMP_OLD"
             if ! diff -q "$TMP_OLD" "$TMP_NEW" > /dev/null; then
               HAS_CHANGES=true
@@ -41,7 +41,7 @@ jobs:
             HAS_CHANGES=true
           fi
 
-          # 3. 写入文件（如果内容有变）
+          # 3. 写入文件
           if [ "$HAS_CHANGES" = true ]; then
             echo "saas.sin.fan:443#▼ 优选IPv4 | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
             cat "$TMP_NEW" >> "$TARGET_FILE"
