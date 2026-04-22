@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate_204真链接测试网址</title>
+    <style>
+        :root {
+            --primary-color: #2563eb;
+            --bg-color: #f8fafc;
+            --text-color: #1e293b;
+            --border-color: #e2e8f0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            width: 100%;
+            flex-grow: 1;
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 30px;
+        }
+
+        /* 表格样式 */
+        .table-container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+            overflow: hidden;
+            margin-bottom: 40px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f1f5f9;
+            padding: 15px;
+            font-weight: 600;
+            border-bottom: 2px solid var(--border-color);
+        }
+
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid var(--border-color);
+            word-break: break-all;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* 评分标签 */
+        .score {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+        .high { background-color: #dcfce7; color: #166534; }
+        .mid { background-color: #fef9c3; color: #854d0e; }
+        .low { background-color: #fee2e2; color: #991b1b; }
+
+        /* 复制按钮 */
+        .copy-btn {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 12px;
+            margin-left: 8px;
+            white-space: nowrap;
+            transition: opacity 0.2s;
+        }
+        .copy-btn:hover { opacity: 0.8; }
+        .copy-btn:active { transform: scale(0.95); }
+
+        /* 底部广告 */
+        .ad-footer {
+            text-align: center;
+            padding: 20px;
+            margin-top: auto;
+            border-top: 1px solid var(--border-color);
+        }
+        .ad-link {
+            display: inline-block;
+            background: #ff0000;
+            color: white;
+            padding: 12px 25px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            box-shadow: 0 4px 15px rgba(255, 0, 0, 0.3);
+            transition: transform 0.2s;
+        }
+        .ad-link:hover {
+            transform: translateY(-2px);
+            background: #cc0000;
+        }
+
+        /* 移动端适配 */
+        @media (max-width: 640px) {
+            table, thead, tbody, th, td, tr {
+                display: block;
+            }
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+            tr {
+                margin-bottom: 15px;
+                border: 1px solid var(--border-color);
+                border-radius: 8px;
+                padding: 10px;
+                background: #fff;
+            }
+            td {
+                border: none;
+                position: relative;
+                padding-left: 40%;
+                text-align: right;
+            }
+            td:before {
+                position: absolute;
+                left: 10px;
+                width: 35%;
+                white-space: nowrap;
+                font-weight: bold;
+                text-align: left;
+                content: attr(data-label);
+            }
+            .copy-btn {
+                display: block;
+                width: 100%;
+                margin: 10px 0 0 0;
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>204 真链接测试网址</h1>
+
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>服务提供者</th>
+                    <th>链接</th>
+                    <th>大陆体验</th>
+                    <th>境外体验</th>
+                </tr>
+            </thead>
+            <tbody id="data-table">
+                </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="ad-footer">
+    <a href="https://www.youtube.com/@zhenxiangdinglv" target="_blank" class="ad-link">
+        YouTube @真香定律
+    </a>
+</div>
+
+<script>
+    const data = [
+        {provider: "Google", url: "http://www.gstatic.com/generate_204", cn: 5, intl: 10},
+        {provider: "Google", url: "http://www.google-analytics.com/generate_204", cn: 6, intl: 4},
+        {provider: "Google", url: "http://www.google.com/generate_204", cn: 0, intl: 10},
+        {provider: "Google", url: "http://connectivitycheck.gstatic.com/generate_204", cn: 4, intl: 10},
+        {provider: "Apple", url: "http://captive.apple.com", cn: 3, intl: 10},
+        {provider: "Apple", url: "http://www.apple.com/library/test/success.html", cn: 7, intl: 10},
+        {provider: "MicroSoft", url: "http://www.msftconnecttest.com/connecttest.txt", cn: 5, intl: 10},
+        {provider: "Cloudflare", url: "http://cp.cloudflare.com/", cn: 4, intl: 10},
+        {provider: "Firefox", url: "http://detectportal.firefox.com/success.txt", cn: 5, intl: 10},
+        {provider: "V2ex", url: "http://www.v2ex.com/generate_204", cn: 0, intl: 10},
+        {provider: "小米", url: "http://connect.rom.miui.com/generate_204", cn: 10, intl: 4},
+        {provider: "华为", url: "http://connectivitycheck.platform.hicloud.com/generate_204", cn: 10, intl: 5},
+        {provider: "Vivo", url: "http://wifi.vivo.com.cn/generate_204", cn: 10, intl: 5}
+    ];
+
+    function getScoreClass(score) {
+        if (score >= 8) return 'high';
+        if (score >= 4) return 'mid';
+        return 'low';
+    }
+
+    const tbody = document.getElementById('data-table');
+    data.forEach(item => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+            <td data-label="服务提供者">${item.provider}</td>
+            <td data-label="链接">
+                <span class="url-text">${item.url}</span>
+                <button class="copy-btn" onclick="copyToClipboard('${item.url}', this)">复制</button>
+            </td>
+            <td data-label="大陆体验">
+                <span class="score ${getScoreClass(item.cn)}">${item.cn}</span>
+            </td>
+            <td data-label="境外体验">
+                <span class="score ${getScoreClass(item.intl)}">${item.intl}</span>
+            </td>
+        `;
+        tbody.appendChild(tr);
+    });
+
+    async function copyToClipboard(text, btn) {
+        try {
+            await navigator.clipboard.writeText(text);
+            const originalText = btn.innerText;
+            btn.innerText = '已复制';
+            btn.style.backgroundColor = '#22c55e';
+            setTimeout(() => {
+                btn.innerText = originalText;
+                btn.style.backgroundColor = '';
+            }, 1500);
+        } catch (err) {
+            alert('复制失败，请手动选择复制');
+        }
+    }
+</script>
+
+</body>
+</html>
