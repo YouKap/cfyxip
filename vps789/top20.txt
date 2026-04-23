@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-24 05:38 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-24 06:07 | YouTube@真香定律
 www.mlkj888.com:443#www.mlkj888.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 www.visa.com.sg:443#www.visa.com.sg
@@ -10,6 +10,7 @@ cfsaas.080112.xyz:443#cfsaas.080112.xyz
 zeas.top:443#zeas.top
 www.visa.com:443#www.visa.com
 ping.pe:443#ping.pe
+cloudflare.cnae.top:443#cloudflare.cnae.top
 nexusmods.com:443#nexusmods.com
 www.nexusmods.com:443#www.nexusmods.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -18,5 +19,4 @@ cf1.v8.longsays.com:443#cf1.v8.longsays.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
 da.mfa.gov.ua:443#da.mfa.gov.ua
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测

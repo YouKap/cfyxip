@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 05:38 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 06:07 | YouTube@真香定律
 www.mlkj888.com:443#www.mlkj888.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 www.visa.com.sg:443#www.visa.com.sg
@@ -10,6 +10,7 @@ cfsaas.080112.xyz:443#cfsaas.080112.xyz
 zeas.top:443#zeas.top
 www.visa.com:443#www.visa.com
 ping.pe:443#ping.pe
+cloudflare.cnae.top:443#cloudflare.cnae.top
 nexusmods.com:443#nexusmods.com
 www.nexusmods.com:443#www.nexusmods.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -26,12 +27,11 @@ cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 www.whoer.net:443#www.whoer.net
 cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
 page.mercer.com:443#page.mercer.com
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
-123.cf.3666888.xyz:443#123.cf.3666888.xyz
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
-x.com:443#x.com
+123.cf.3666888.xyz:443#123.cf.3666888.xyz
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 cnllm.com:443#cnllm.com
@@ -39,14 +39,14 @@ kniu.cc:443#kniu.cc
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 cf.090227.xyz:443#cf.090227.xyz
+i.111666.best:443#i.111666.best
 nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 cf.godns.cc:443#cf.godns.cc
 cdn.262832.xyz:443#cdn.262832.xyz
 cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
+x.com:443#x.com
 www.sage.com:443#www.sage.com
 a.lma.de5.net:443#a.lma.de5.net
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-ys2046.cv:443#ys2046.cv
-cf.duun.eu.cc:443#cf.duun.eu.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
