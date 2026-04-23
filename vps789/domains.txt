@@ -1,9 +1,9 @@
+www.mlkj888.com
 cloudflare.cfgo.cc
 www.visa.com.sg
 cf.zhetengsha.eu.org
 cloudflare.182682.xyz
 youxuan.cf.636949.xyz
-cnllm.com
 store.ubi.com
 kniu.cc
 cloudflare-ip.mofashi.ltd
@@ -11,7 +11,6 @@ cfsaas.080112.xyz
 zeas.top
 www.visa.com
 ping.pe
-visa.com
 nexusmods.com
 www.nexusmods.com
 china-telecom.cname.cloudflare.468123.xyz
@@ -19,6 +18,7 @@ china-telecom.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
 freeyx.cloudflare88.eu.org
 cdn.2020111.xyz
+visa.com
 da.mfa.gov.ua
 test.509666.xyz
 staticdelivery.nexusmods.com
@@ -29,7 +29,7 @@ www.whoer.net
 cloudflare-dl.byoip.top
 cf.1o.ee
 eii.at
-www.mlkj888.com
+cloudflare.idc.rocks
 www.bangbenjiaju.com
 123.cf.3666888.xyz
 8.cf.3666888.xyz
@@ -37,6 +37,7 @@ www.fastsoso.cn
 x.com
 1.cf.3666888.xyz
 www.cdzxdz.com
+cnllm.com
 01-cctv.com
 01-qq.com
 cf.090227.xyz
@@ -51,7 +52,6 @@ cf-ip-node.vov.moe
 ys2046.cv
 cf.duun.eu.cc
 www.speedtest.net
-cloudflare.idc.rocks
 dnew.cc
 envato.com
 eason.cf.lma.de5.net
@@ -61,7 +61,6 @@ openai.com
 www.5199dy.com
 store.epicgames.com
 cdn.cf.3666888.xyz
-www.visa.com.hk
 i.111666.best
 www.epicgames.com
 bbs.alipansou.com
@@ -71,7 +70,6 @@ cu.877774.xyz
 bestcfv4.030101.xyz
 tajikistan.mfa.gov.ua
 mskcc.org
-dianomi.com
 jobsdb.com
 avido.cf.3666888.xyz
 yg7.ygkkk.dpdns.org
@@ -80,13 +78,16 @@ ahblog.cn
 investor.apple.com
 cdn.091224.xyz
 cfgo.timelate.com
+www.visa.com.hk
 dango.co
 cmcc.cc.cd
 dianxin.19931101.xyz
 www.ntu.edu.sg
 www.shopify.com
 email.lg.com
+dianomi.com
 10.cf.3666888.xyz
+cdn.2158.cc
 yg9.ygkkk.dpdns.org
 www.swowd.com
 www.xiaoshuofen.com
@@ -111,7 +112,6 @@ mfa.gov.ua
 us.cloudflare.cnae.top
 hfqek.cf.3666888.xyz
 5.cf.3666888.xyz
-cdn.2158.cc
 yg12.ygkkk.dpdns.org
 www.sofi.com
 china-unicom.cname.cloudflare.468123.xyz
@@ -121,14 +121,12 @@ networksolutions.com
 sanwang.cf.3666888.xyz
 cloudflare-dl.cnae.top
 www.jimdo.com
-cf.xnet.ren
 yg13.ygkkk.dpdns.org
 cloudflare.468123.xyz
+zero-trust-client.cloudflareclient.com
 www.trump.com
 www.visa.cn
 snipaste5.speedip.eu.org
-dynadot.com
-cfyx.dnspod.20237737.xyz
 www.leics.police.uk
 hk.cf.3666888.xyz
 cdn.555586.xyz
@@ -140,9 +138,11 @@ cdn.7zz.cn
 qy.cf.727672.xyz
 markmonitor.com
 yxip.xxxxxxxx.tk
+dynadot.com
 page.mercer.com
 stackoverflow.com
 6.cf.3666888.xyz
+7.cf.3666888.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cdns.doon.eu.org
 cmcc.090227.xyz
@@ -154,6 +154,7 @@ ct.877774.xyz
 b3.cfyx.20237737.xyz
 linear.app
 snipaste1.speedip.eu.org
+cfyx.dnspod.20237737.xyz
 www.wuduanyun.com
 www.wto.org
 egov.uscis.gov
@@ -170,6 +171,7 @@ zoominfo.com
 m.iyf.tv
 kuaidianlian.com.cn
 cf.jzlh99.com
+cf.xnet.ren
 2.cf.3666888.xyz
 cf.998866.top
 4.cf.3666888.xyz
@@ -181,7 +183,7 @@ wppaunz.com
 www.truepowerofblue.com
 cmcc.hw.090227.xyz
 ct.hw.090227.xyz
-imooo.de
+investorrelations.medtronic.com
 nas.chinwa.eu.cc
 336688.chinwa.eu.cc
 cf.468123.xyz
@@ -191,10 +193,8 @@ www.carousell.sg
 www.trumpgolf.com
 www.oopt.eu.cc
 cf.0sm.com
-zero-trust-client.cloudflareclient.com
 racerseseries.sky.com
 centerofthewest.org
 clickhouse.com
 spirol.com
 www.maxcom.de
-jp.cf.3666888.xyz

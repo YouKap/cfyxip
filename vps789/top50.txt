@@ -1,10 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 04:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-24 05:07 | YouTube@真香定律
+www.mlkj888.com:443#www.mlkj888.com
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 www.visa.com.sg:443#www.visa.com.sg
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
-cnllm.com:443#cnllm.com
 store.ubi.com:443#store.ubi.com
 kniu.cc:443#kniu.cc
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -12,7 +12,6 @@ cfsaas.080112.xyz:443#cfsaas.080112.xyz
 zeas.top:443#zeas.top
 www.visa.com:443#www.visa.com
 ping.pe:443#ping.pe
-visa.com:443#visa.com
 nexusmods.com:443#nexusmods.com
 www.nexusmods.com:443#www.nexusmods.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -20,6 +19,7 @@ china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.2020111.xyz:443#cdn.2020111.xyz
+visa.com:443#visa.com
 da.mfa.gov.ua:443#da.mfa.gov.ua
 test.509666.xyz:443#test.509666.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -30,7 +30,7 @@ www.whoer.net:443#www.whoer.net
 cloudflare-dl.byoip.top:443#cloudflare-dl.byoip.top
 cf.1o.ee:443#cf.1o.ee
 eii.at:443#eii.at
-www.mlkj888.com:443#www.mlkj888.com
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
@@ -38,6 +38,7 @@ www.fastsoso.cn:443#www.fastsoso.cn
 x.com:443#x.com
 1.cf.3666888.xyz:443#1.cf.3666888.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
+cnllm.com:443#cnllm.com
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 cf.090227.xyz:443#cf.090227.xyz
@@ -48,5 +49,4 @@ cfyx.aliyun.20237737.xyz:443#cfyx.aliyun.20237737.xyz
 www.sage.com:443#www.sage.com
 a.lma.de5.net:443#a.lma.de5.net
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
