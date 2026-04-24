@@ -80,10 +80,25 @@
         .no-results { text-align: center; padding: 40px; color: var(--text-muted); display: none; }
 
         .toast {
-            position: fixed; top: 20px; left: 50%; transform: translateX(-50%);
-            background: var(--accent-blue); color: white; padding: 10px 20px;
-            border-radius: 20px; font-size: 0.9rem; z-index: 1000;
-            display: none; box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            position: fixed;
+            top: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--accent-blue);
+            color: white;
+            padding: 10px 24px;       /* 稍微增加内边距 */
+            border-radius: 20px;
+            font-size: 0.9rem;
+            z-index: 1000;
+            display: none;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            
+            /* --- 核心修复代码 --- */
+            white-space: nowrap;      /* 强制不换行 */
+            width: max-content;       /* 宽度根据内容自适应 */
+            max-width: 90vw;          /* 最大宽度不超过屏幕宽度的 90% */
+            overflow: hidden;         /* 万一超出了就隐藏 */
+            text-overflow: ellipsis;  /* 超出部分显示省略号 */
         }
 
         footer {
@@ -149,15 +164,23 @@
     const mainContent = document.getElementById('mainContent');
     const toast = document.getElementById('toast');
 
-	function showToast(text) {
-        // 提示信息也显示整行内容，方便确认
+    let toastTimer = null;
+
+    function showToast(text) {
         toast.innerText = `已复制 ${text}`;
         toast.style.display = 'block';
-        setTimeout(() => toast.style.display = 'none', 1500);
+
+        if (toastTimer) {
+            clearTimeout(toastTimer);
+        }
+
+        toastTimer = setTimeout(() => {
+            toast.style.display = 'none';
+            toastTimer = null; // 执行完后清空记录
+        }, 1500);
     }
 
     function handleCopy(item) {
-        // 修改点：直接复制整行文本 (例如: "香港, 中国 - HKG, HK")
         navigator.clipboard.writeText(item).then(() => showToast(item));
     }
 
