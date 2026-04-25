@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIDR to IP 转换器</title>
+    <style>
+        :root {
+            --accent-blue: #3b82f6;
+            --accent-blue-hover: #2563eb;
+            --accent-emerald: #10b981;
+            --accent-emerald-hover: #059669;
+            --bg-dark: #0f172a;
+            --card-dark: #1e293b;
+            --input-bg: #020617;
+            --text-main: #e2e8f0;
+            --text-muted: #94a3b8;
+            --border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        /* 修正后的布局逻辑 */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+		body {
+			background-color: var(--bg-dark);
+			color: var(--text-main);
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+			line-height: 1.5;
+			display: flex;
+			justify-content: center;
+			align-items: center; /* 保持垂直居中 */
+			min-height: 100vh;
+			padding: 20px;
+			box-sizing: border-box; /* 关键：确保 padding 不会额外增加 body 的总高度 */
+		}
+
+        main { 
+            width: 100%; 
+            max-width: 1000px; /* 限制最大宽度 */
+            margin: 0 auto;    /* 确保在容器内水平居中 */
+        }
+
+        header { text-align: center; margin-bottom: 40px; }
+        h1 { font-size: 2.5rem; color: var(--accent-blue); margin-bottom: 12px; font-weight: 800; }
+        header p { color: var(--text-muted); font-size: 1rem; }
+
+        .glass-card {
+            background: var(--card-dark);
+            border: 1px solid var(--border-color);
+            border-radius: 24px;
+            padding: 40px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 32px;
+        }
+
+        /* 移动端适配 */
+        @media (max-width: 850px) {
+            body { padding: 20px; }
+            .grid-container { grid-template-columns: 1fr; }
+            .glass-card { padding: 20px; }
+            h1 { font-size: 2rem; }
+        }
+
+        .panel { display: flex; flex-direction: column; }
+        .label-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 14px;
+            font-weight: 600;
+        }
+        .label-in { color: var(--accent-blue); }
+        .label-out { color: var(--accent-emerald); }
+        
+        .counter {
+            font-size: 12px;
+            background: #0f172a;
+            padding: 3px 10px;
+            border-radius: 6px;
+            color: var(--text-muted);
+            border: 1px solid var(--border-color);
+        }
+
+        /* 统一输入输出框高度 */
+        textarea {
+            width: 100%;
+            height: 300px;
+            background-color: var(--input-bg);
+            border: 1px solid #334155;
+            border-radius: 14px;
+            padding: 18px;
+            color: #cbd5e1;
+            font-family: "SFMono-Regular", Consolas, monospace;
+            font-size: 14px;
+            line-height: 1.6;
+            resize: none;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            outline: none;
+        }
+        textarea:focus { border-color: var(--accent-blue); box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15); }
+        textarea[readonly] { background-color: rgba(2, 6, 23, 0.4); border-color: #1e293b; color: #94a3b8; }
+
+        /* 按钮布局 */
+        .action-area { margin-top: 20px; display: flex; gap: 12px; }
+        .btn {
+            flex: 1;
+            padding: 15px;
+            border: none;
+            border-radius: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            transition: all 0.3s ease;
+            color: white;
+            font-size: 15px;
+        }
+        .btn-primary { background: var(--accent-blue); width: 100%; }
+        .btn-primary:hover { background: var(--accent-blue-hover); transform: translateY(-1px); }
+        
+        .btn-secondary { background: #334155; }
+        .btn-secondary:hover { background: #475569; }
+
+        /* 新增：激活后的绿色样式 */
+        .btn-success { background: var(--accent-emerald) !important; }
+        .btn-success:hover { background: var(--accent-emerald-hover) !important; transform: translateY(-1px); }
+
+        /* 真香按钮 */
+        footer { margin-top: 60px; text-align: center; padding-bottom: 40px; }
+        .ad-btn {
+            display: inline-flex;
+            align-items: center;
+            padding: 14px 36px;
+            background: linear-gradient(135deg, #f97316 0%, #eab308 100%);
+            color: white;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: 700;
+            box-shadow: 0 10px 20px -5px rgba(249, 115, 22, 0.4);
+            transition: all 0.3s;
+            position: relative;
+        }
+        .ad-btn:hover { transform: scale(1.05) translateY(-2px); box-shadow: 0 15px 25px -5px rgba(249, 115, 22, 0.5); }
+        
+        .ping-circle {
+            position: absolute;
+            top: 0; right: 0;
+            width: 12px; height: 12px;
+            background: white;
+            border-radius: 50%;
+            border: 2px solid #f97316;
+        }
+        .ping-anim {
+            position: absolute;
+            top: 0; right: 0;
+            width: 12px; height: 12px;
+            background: white;
+            border-radius: 50%;
+            animation: custom-ping 1.5s infinite;
+        }
+        @keyframes custom-ping { 0% { transform: scale(1); opacity: 1; } 100% { transform: scale(3.5); opacity: 0; } }
+
+        /* 滚动条优化 */
+        textarea::-webkit-scrollbar { width: 6px; }
+        textarea::-webkit-scrollbar-track { background: transparent; }
+        textarea::-webkit-scrollbar-thumb { background: #475569; border-radius: 10px; }
+    </style>
+</head>
+<body>
+
+    <main>
+        <header>
+            <h1>CIDR to IP 转换器</h1>
+            <p> </p>
+        </header>
+
+        <div class="glass-card">
+            <div class="grid-container">
+                <div class="panel">
+                    <div class="label-row label-in">
+                        <span>CIDR 地址段</span>
+                    </div>
+                    <textarea id="inputArea" placeholder="支持多行，例如：&#10;104.16.0.0/16&#10;172.67.0.0/20&#10;162.159.193.0/24&#10;188.114.97.1/30"></textarea>
+                    <div class="action-area">
+                        <button class="btn btn-primary" onclick="handleProcessing()">
+                            开始转换
+                        </button>
+                    </div>
+                </div>
+
+                <div class="panel">
+                    <div class="label-row label-out">
+                        <span>IP 列表</span>
+                        <span id="ipCount" class="counter">0 个 IP</span>
+                    </div>
+                    <textarea id="outputArea" readonly placeholder="转换结果会出现在这里..."></textarea>
+                    <div class="action-area">
+                        <button class="btn btn-secondary" onclick="copyToClipboard()" id="copyBtn">复制内容</button>
+                        <button class="btn btn-secondary" onclick="downloadTxt()" id="downloadBtn">下载文本</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <a href="https://www.youtube.com/@zhenxiangdinglv" target="_blank" class="ad-btn">
+                <span style="margin-right: 8px; opacity: 0.9;">YouTube@真香定律</span>
+                <span class="ping-anim"></span>
+                <span class="ping-circle"></span>
+            </a>
+        </footer>
+    </main>
+
+    <script>
+        const NetUtils = {
+            serializeIp(ip) {
+                const parts = ip.split('.');
+                if (parts.length !== 4) return null;
+                return parts.reduce((acc, octet) => (acc << 8) + parseInt(octet, 10), 0) >>> 0;
+            },
+            deserializeIp(num) {
+                return [(num >>> 24) & 0xFF, (num >>> 16) & 0xFF, (num >>> 8) & 0xFF, num & 0xFF].join('.');
+            },
+            parseRange(cidrStr) {
+                const parts = cidrStr.trim().split('/');
+                if (parts.length !== 2) return [];
+                const base = parts[0];
+                const mask = parseInt(parts[1], 10);
+                if (isNaN(mask) || mask < 0 || mask > 32) return [];
+                const ipNumeric = this.serializeIp(base);
+                if (ipNumeric === null) return [];
+                const totalHosts = Math.pow(2, 32 - mask);
+                const networkBase = (ipNumeric >>> (32 - mask)) << (32 - mask);
+                const results = [];
+                const limit = Math.min(totalHosts, 100000); 
+                for (let i = 0; i < limit; i++) {
+                    results.push(this.deserializeIp((networkBase >>> 0) + i));
+                }
+                return results;
+            }
+        };
+
+        // 新增：动态修改按钮颜色的函数
+        function updateButtonStyles(active) {
+            const copyBtn = document.getElementById('copyBtn');
+            const downloadBtn = document.getElementById('downloadBtn');
+            if (active) {
+                copyBtn.classList.add('btn-success');
+                downloadBtn.classList.add('btn-success');
+            } else {
+                copyBtn.classList.remove('btn-success');
+                downloadBtn.classList.remove('btn-success');
+            }
+        }
+
+        function handleProcessing() {
+            const input = document.getElementById('inputArea').value;
+            const outputElement = document.getElementById('outputArea');
+            const counterElement = document.getElementById('ipCount');
+            const lines = input.split('\n').filter(l => l.trim() !== '');
+            let allIps = [];
+
+            lines.forEach(line => {
+                if(line.includes('/')) {
+                    allIps = allIps.concat(NetUtils.parseRange(line));
+                }
+            });
+
+            if (allIps.length > 0) {
+                outputElement.value = allIps.join('\n');
+                counterElement.innerText = `${allIps.length.toLocaleString()} 个 IP`;
+                updateButtonStyles(true); // 生成结果后变绿
+            } else {
+                outputElement.value = "错误：未发现有效的 CIDR 格式。";
+                counterElement.innerText = "0 个 IP 地址";
+                updateButtonStyles(false); // 报错或清空后恢复
+            }
+        }
+
+        async function copyToClipboard() {
+            const output = document.getElementById('outputArea');
+            const btn = document.getElementById('copyBtn');
+            if (!output.value || output.value.includes("错误")) return;
+            try {
+                await navigator.clipboard.writeText(output.value);
+                const originalText = btn.innerText;
+                btn.innerText = "✅ 复制成功";
+                setTimeout(() => btn.innerText = originalText, 2000);
+            } catch (err) {
+                alert('您的浏览器不支持自动复制');
+            }
+        }
+
+        function downloadTxt() {
+            const content = document.getElementById('outputArea').value;
+            const downloadBtn = document.getElementById('downloadBtn');
+            if (!content || content.includes("错误")) return;
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'cidr2ip.txt';
+            document.body.appendChild(a);
+            a.click();
+            window.URL.revokeObjectURL(url);
+            document.body.removeChild(a);
+        }
+    </script>
+</body>
+</html>
