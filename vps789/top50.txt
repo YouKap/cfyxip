@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-26 07:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-26 07:37 | YouTube@真香定律
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -14,13 +14,9 @@ test.509666.xyz:443#test.509666.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 www.shopify.com:443#www.shopify.com
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
-adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
 cnllm.com:443#cnllm.com
 cu.877774.xyz:443#cu.877774.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
-01-cctv.com:443#01-cctv.com
 zeas.top:443#zeas.top
 a.lma.de5.net:443#a.lma.de5.net
 www.bangbenjiaju.com:443#www.bangbenjiaju.com
@@ -29,7 +25,6 @@ www.visa.com:443#www.visa.com
 www.sage.com:443#www.sage.com
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 y508.com:443#y508.com
-cfgo.timelate.com:443#cfgo.timelate.com
 store.ubi.com:443#store.ubi.com
 www.mfyx.cn:443#www.mfyx.cn
 www.visa.com.hk:443#www.visa.com.hk
@@ -38,8 +33,6 @@ cloudflare.cnae.top:443#cloudflare.cnae.top
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cf.1o.ee:443#cf.1o.ee
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
-nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
 saas.sin.fan:443#saas.sin.fan
 777.ai7777777.xyz:443#777.ai7777777.xyz
 bestcfv4.030101.xyz:443#bestcfv4.030101.xyz
@@ -49,4 +42,11 @@ cf.727672.xyz:443#cf.727672.xyz
 baka.fun:443#baka.fun
 www.mlkj888.com:443#www.mlkj888.com
 qy.cf.727672.xyz:443#qy.cf.727672.xyz
+www.fastsoso.cn:443#www.fastsoso.cn
+openai.com:443#openai.com
+serviceshub.samsclub.com:443#serviceshub.samsclub.com
+www.mc.js.cool:443#www.mc.js.cool
+cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
