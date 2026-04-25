@@ -1,15 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-25 12:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-25 12:37 | YouTube@真香定律
 zeas.top:443#zeas.top
 so.360832.xyz:443#so.360832.xyz
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 nrt.xxxxxxxx.nyc.mn:443#nrt.xxxxxxxx.nyc.mn
-www.jimdo.com:443#www.jimdo.com
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
 www.swowd.com:443#www.swowd.com
 cloudflare.cnae.top:443#cloudflare.cnae.top
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
+www.jimdo.com:443#www.jimdo.com
 test.509666.xyz:443#test.509666.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 eii.at:443#eii.at
@@ -36,9 +35,9 @@ cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
 www.leics.police.uk:443#www.leics.police.uk
+us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 101yaoye.com:443#101yaoye.com
-cmcc.cc.cd:443#cmcc.cc.cd
 01-qq.com:443#01-qq.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
@@ -48,5 +47,6 @@ youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cdn.2158.cc:443#cdn.2158.cc
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
-cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
+cf.1o.ee:443#cf.1o.ee
+cnllm.com:443#cnllm.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
