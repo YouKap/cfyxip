@@ -1,30 +1,30 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-26 12:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-26 13:07 | YouTube@真香定律
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 www.shopify.com:443#www.shopify.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 cf.090227.xyz:443#cf.090227.xyz
 01-qq.com:443#01-qq.com
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cu.877774.xyz:443#cu.877774.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cf1.v8.longsays.com:443#cf1.v8.longsays.com
+cf.877774.xyz:443#cf.877774.xyz
 mogas.com:443#mogas.com
 a.lma.de5.net:443#a.lma.de5.net
-cf.877774.xyz:443#cf.877774.xyz
 www.sage.com:443#www.sage.com
+cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 eii.at:443#eii.at
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 www.mfyx.cn:443#www.mfyx.cn
-saas.sin.fan:443#saas.sin.fan
 cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.mlkj888.com:443#www.mlkj888.com
 www.fastsoso.cn:443#www.fastsoso.cn
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 openai.com:443#openai.com
+saas.sin.fan:443#saas.sin.fan
 bbs.alipansou.com:443#bbs.alipansou.com
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
@@ -39,7 +39,6 @@ www.nexusmods.com:443#www.nexusmods.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-dnew.cc:443#dnew.cc
 cf.1o.ee:443#cf.1o.ee
 cmcc.cc.cd:443#cmcc.cc.cd
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
@@ -49,4 +48,5 @@ so.360832.xyz:443#so.360832.xyz
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.visa.com.sg:443#www.visa.com.sg
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
