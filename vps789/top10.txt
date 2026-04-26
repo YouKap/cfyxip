@@ -1,4 +1,5 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 04-27 02:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP10 | 04-27 03:37 | YouTube@真香定律
+www.5h.com:443#www.5h.com
 nexusmods.com:443#nexusmods.com
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cf.1o.ee:443#cf.1o.ee
@@ -7,6 +8,5 @@ y508.com:443#y508.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-dnew.cc:443#dnew.cc
-sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
+cloudflare.idc.rocks:443#cloudflare.idc.rocks
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 bestcf.pages.dev | VPS789 7*24监测
