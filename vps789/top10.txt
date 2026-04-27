@@ -1,7 +1,6 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 04-27 22:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP10 | 04-27 23:07 | YouTube@真香定律
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
-cf.1o.ee:443#cf.1o.ee
 y508.com:443#y508.com
 cdn.091224.xyz:443#cdn.091224.xyz
 fk.hshwk.org:443#fk.hshwk.org
@@ -9,4 +8,5 @@ markmonitor.com:443#markmonitor.com
 www.mfyx.cn:443#www.mfyx.cn
 cu.877774.xyz:443#cu.877774.xyz
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
+hzytjy.cn:443#hzytjy.cn
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
