@@ -2,7 +2,6 @@ freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz
 cfsaas.080112.xyz
 dnew.cc
-youxuan.cf.636949.xyz
 cdn.2158.cc
 yg5.ygkkk.dpdns.org
 cf.1o.ee
@@ -13,6 +12,7 @@ cdn.091224.xyz
 www.sloomb.com
 www.vastnovel.com
 saas.sin.fan
+youxuan.cf.636949.xyz
 www.akasantech.com
 www.mfyx.cn
 store.ubi.com
@@ -83,13 +83,13 @@ bbs.alipansou.com
 da.mfa.gov.ua
 www.mc.js.cool
 www.jimdo.com
-us.cloudflare.cnae.top
 11.cf.3666888.xyz
 www.swowd.com
 dongbanghong.com
 yg13.ygkkk.dpdns.org
 cf.090227.xyz
 cf.v8.longsays.com
+us.cloudflare.cnae.top
 dns.163189.xyz
 fk.hshwk.org
 cloudflare-dl.cnae.top
@@ -111,7 +111,6 @@ cloudflare.cfgo.cc
 www.5199dy.com
 youxuan.cf.3666888.xyz
 hk.cf.3666888.xyz
-china.mfa.gov.ua
 cf.727672.xyz
 markmonitor.com
 cf.duun.eu.cc
@@ -126,15 +125,16 @@ page.mercer.com
 yg6.ygkkk.dpdns.org
 kniu.cc
 tajikistan.mfa.gov.ua
+4.cf.3666888.xyz
 nrtcfdns.zone.id
 www.visa.com
+cmcc.vvvv.ee
 cf.3666888.xyz
 virtualcommtraining.verizon.com
 qualitytraining.zeiss.com
 stonexbullion.com
 sg.cf.3666888.xyz
 cf1s.cf.3666888.xyz
-cfvip.cf.3666888.xyz
 8.cf.3666888.xyz
 www.galgamex.net
 ahblog.cn
@@ -144,7 +144,6 @@ cfgo.timelate.com
 isp.qzz.io
 jobsdb.com
 eteaf.cf.3666888.xyz
-4.cf.3666888.xyz
 www.6i5.com
 nas.chinwa.eu.cc
 cdn.2020111.xyz
@@ -153,6 +152,7 @@ cmcc.877774.xyz
 dynadot.com
 ddk.cfyx.20237737.xyz
 www.leics.police.uk
+cfvip.cf.3666888.xyz
 www.bangbenjiaju.com
 store.ubisoft.com
 cu.880849.xyz
@@ -175,7 +175,6 @@ cloudflare-dl.byoip.top
 2.cf.3666888.xyz
 imooo.de
 i.111666.best
-cmcc.vvvv.ee
 dianomi.com
 qocu.cf.3666888.xyz
 investor.apple.com
@@ -198,3 +197,4 @@ bestcf.top
 www.visa.cn
 cf.877774.xyz
 6.cf.3666888.xyz
+www.sofi.com
