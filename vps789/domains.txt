@@ -20,7 +20,6 @@ cf.cf.3666888.xyz
 3.cf.3666888.xyz
 www.speedtest.net
 yg7.ygkkk.dpdns.org
-eii.at
 y508.com
 www.mc.js.cool
 01-qq.com
@@ -30,6 +29,7 @@ www.shopify.com
 www.epicgames.com
 cf.godns.cc
 redis.io
+eii.at
 so.360832.xyz
 cloudflare.cnae.top
 cf-cname.xingpingcn.top
@@ -59,7 +59,6 @@ yg1.ygkkk.dpdns.org
 cf.090227.xyz
 store.ubi.com
 cdn.2158.cc
-cloudflare-ip.mofashi.ltd
 openai.com
 cfsaas.080112.xyz
 da.mfa.gov.ua
@@ -71,8 +70,8 @@ cmcc.cc.cd
 cdn.31514926.xyz
 avido.cf.3666888.xyz
 china-mobile.cname.cloudflare.468123.xyz
+cloudflare-ip.mofashi.ltd
 zero-trust-client.cloudflareclient.com
-cf.3666888.xyz
 adnjv.cf.3666888.xyz
 6.cf.3666888.xyz
 test.509666.xyz
@@ -87,6 +86,7 @@ shanghai.mfa.gov.ua
 www.trumpgolf.com
 www.visa.com.sg
 www.fastsoso.cn
+cf.3666888.xyz
 www.sage.com
 eason.cf.lma.de5.net
 us.cloudflare.cnae.top
@@ -100,8 +100,6 @@ cdn.262832.xyz
 racerseseries.sky.com
 stackoverflow.com
 cfgo.timelate.com
-7.cf.3666888.xyz
-china.mfa.gov.ua
 cnllm.com
 www.mlkj888.com
 store.ubisoft.com
@@ -112,12 +110,12 @@ store.epicgames.com
 cf1s.cf.3666888.xyz
 cdn.cf.3666888.xyz
 youxuan.cf.636949.xyz
+7.cf.3666888.xyz
 yidong.19931101.xyz
 i.111666.best
 cmcc.877774.xyz
 a.lma.de5.net
 hfqek.cf.3666888.xyz
-run.254301.xyz
 hzytjy.cn
 ys2046.cv
 go1.dematic.com
@@ -126,6 +124,7 @@ cf.xnet.ren
 fw8je9.cf.3666888.xyz
 x.com
 cfdl.3666888.xyz
+run.254301.xyz
 ping.ctrl.li
 www.visa.com.hk
 dango.co
@@ -133,18 +132,19 @@ www.visa.com.tw
 ping.pe
 ct.877774.xyz
 ddk.cfyx.20237737.xyz
-stlouiscountymo.gov
 mskcc.org
 cf.727672.xyz
 cf1.v8.longsays.com
 liantong.19931101.xyz
 www.visa.com
 777.ai7777777.xyz
+stlouiscountymo.gov
 yg3.ygkkk.dpdns.org
 www.whoer.net
 dynadot.com
 networksolutions.com
 cf.998866.top
+www.sofi.com
 investor.apple.com
 china-telecom.cname.cloudflare.468123.xyz
 visa.com
@@ -157,9 +157,7 @@ yapuyapu.com
 email.lg.com
 jp.cf.3666888.xyz
 yg13.ygkkk.dpdns.org
-www.sofi.com
 www.6i5.com
-dianxin.19931101.xyz
 nrt.xxxxxxxx.nyc.mn
 yxip.xxxxxxxx.tk
 snipaste5.speedip.eu.org
@@ -181,10 +179,10 @@ www.hdmoli.com
 greim.no
 1749991941.bilibiliapp.cn
 cf.te.lezi.chat
-cf.468123.xyz
 newsroom.avalara.com
 www.carousell.sg
 baota.us.kg
+dianxin.19931101.xyz
 ct.880849.xyz
 cf.legspcpd.furry.bz
 kuaidianlian.com.cn
@@ -198,3 +196,5 @@ cloudflare-dl.byoip.top
 www.5199dy.com
 www.postman.com
 www.ox.ac.uk
+jquery.com
+w3.org
