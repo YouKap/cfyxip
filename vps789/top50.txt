@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 08:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-27 09:07 | YouTube@真香定律
 dnew.cc:443#dnew.cc
 nexusmods.com:443#nexusmods.com
 sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
@@ -21,7 +21,6 @@ cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.speedtest.net:443#www.speedtest.net
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-eii.at:443#eii.at
 y508.com:443#y508.com
 www.mc.js.cool:443#www.mc.js.cool
 01-qq.com:443#01-qq.com
@@ -31,6 +30,7 @@ www.shopify.com:443#www.shopify.com
 www.epicgames.com:443#www.epicgames.com
 cf.godns.cc:443#cf.godns.cc
 redis.io:443#redis.io
+eii.at:443#eii.at
 so.360832.xyz:443#so.360832.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
