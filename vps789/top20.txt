@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-28 12:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-28 13:07 | YouTube@真香定律
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
@@ -10,7 +10,6 @@ cf.090227.xyz:443#cf.090227.xyz
 www.sage.com:443#www.sage.com
 keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
 www.mfyx.cn:443#www.mfyx.cn
-www.akasantech.com:443#www.akasantech.com
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
@@ -19,4 +18,5 @@ cloudflare.idc.rocks:443#cloudflare.idc.rocks
 cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 cdn.555586.xyz:443#cdn.555586.xyz
+www.bangbenjiaju.com:443#www.bangbenjiaju.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
