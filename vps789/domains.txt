@@ -63,7 +63,6 @@ cloudflare-dl.cnae.top
 test.509666.xyz
 www.xiaoshuofen.com
 www.cdzxdz.com
-cdn.31514926.xyz
 encryptedsni.com
 china-telecom.cname.cloudflare.468123.xyz
 ys2046.cv
@@ -84,12 +83,13 @@ store.ubisoft.com
 www.xflash.vip
 www.5199dy.com
 da.mfa.gov.ua
+www.ox.ac.uk
 sg.cf.3666888.xyz
 cf.xnet.ren
+isp.254301.xyz
 www.mfyx.cn
 2x.nz
 cf.090227.xyz
-www.ox.ac.uk
 fk.hshwk.org
 mfa.gov.ua
 yxip.xxxxxxxx.tk
@@ -103,6 +103,7 @@ www.trumpinternationalrealty.com
 cf.0sm.com
 www.ntu.edu.sg
 www.visa.com
+serviceshub.samsclub.com
 stonexbullion.com
 cfyx.aliyun.20237737.xyz
 cfyx.dnspod.20237737.xyz
@@ -114,7 +115,6 @@ www.giannidelprete.it
 chrono24.com
 www.visa.com.tw
 www.whoer.net
-serviceshub.samsclub.com
 yg3.ygkkk.dpdns.org
 www.swowd.com
 shanghai.mfa.gov.ua
@@ -125,6 +125,7 @@ cdn.cf.3666888.xyz
 cfdl.3666888.xyz
 5.cf.3666888.xyz
 cdn.2020111.xyz
+cloudflare.cnae.top
 stlouiscountymo.gov
 ctlmt.info
 cloudflare.cfgo.cc
@@ -134,14 +135,12 @@ imooo.de
 investor.apple.com
 mming.ggff.net
 digitalocean.com
-cloudflare.cnae.top
 dianomi.com
 store.epicgames.com
 nrt.xxxxxxxx.nyc.mn
 www.speedtest.net
 dynadot.com
 mskcc.org
-isp.254301.xyz
 cdn.2x.nz
 cdn.tzpro.xyz
 visa.com
@@ -164,6 +163,7 @@ ct.721660.xyz
 www.epicgames.com
 cmcc.vvvv.ee
 china-mobile.cname.cloudflare.468123.xyz
+cdn.31514926.xyz
 11.cf.3666888.xyz
 www.galgamex.net
 ctsg.cfyx.aliyun.20237737.xyz
@@ -196,5 +196,5 @@ greim.no
 1749991941.bilibiliapp.cn
 a.cloudflare.182682.xyz
 cnamefuckxxs.yuchen.icu
-xn--b6gac.eu.org
 nrtcfdns.zone.id
+www.visa.com.au
