@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 01:37 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 02:07 | YouTube@真香定律
 www.jimdo.com:443#www.jimdo.com
 dongbanghong.com:443#dongbanghong.com
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -11,7 +11,6 @@ china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468
 ys2046.cv:443#ys2046.cv
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cdn.091224.xyz:443#cdn.091224.xyz
 www.ntu.edu.sg:443#www.ntu.edu.sg
@@ -21,14 +20,15 @@ zeas.top:443#zeas.top
 www.dg22.top:443#www.dg22.top
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cu.877774.xyz:443#cu.877774.xyz
+dynadot.com:443#dynadot.com
 cdn.262832.xyz:443#cdn.262832.xyz
 www.mc.js.cool:443#www.mc.js.cool
 envato.com:443#envato.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
+cdn.2158.cc:443#cdn.2158.cc
 www.sofi.com:443#www.sofi.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 cmcc.877774.xyz:443#cmcc.877774.xyz
 y508.com:443#y508.com
 cmcc.cc.cd:443#cmcc.cc.cd
@@ -36,17 +36,17 @@ cdns.doon.eu.org:443#cdns.doon.eu.org
 cf.v8.longsays.com:443#cf.v8.longsays.com
 www.shopify.com:443#www.shopify.com
 saas.sin.fan:443#saas.sin.fan
-dynadot.com:443#dynadot.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.sage.com:443#www.sage.com
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 eii.at:443#eii.at
 101yaoye.com:443#101yaoye.com
+cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
+bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
+baka.fun:443#baka.fun
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 openai.com:443#openai.com
 store.ubi.com:443#store.ubi.com
-nexusmods.com:443#nexusmods.com
-www.leics.police.uk:443#www.leics.police.uk
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
