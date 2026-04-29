@@ -1,0 +1,64 @@
+name: xinyitang3
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Process Data
+        run: |
+          mkdir -p xinyitang3
+          BJ_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
+          # 修改输出文件名为 ipv4.txt
+          TARGET_FILE="xinyitang3/ipv4.txt"
+          TMP_NEW="new_processed.tmp"
+          TMP_OLD="old_processed.tmp"
+          
+          # 1. 下载并处理数据
+          # 格式化逻辑：原内容 | IP:端口
+          curl -s "https://raw.githubusercontent.com/xinyitang3/rules/refs/heads/main/ip.txt" | grep ":" | while read -r line; do
+            ip_port=$(echo "$line" | cut -d'#' -f1)
+            echo "$line | $ip_port" >> "$TMP_NEW"
+          done
+
+          # 2. 对比逻辑
+          HAS_CHANGES=false
+          if [ -f "$TARGET_FILE" ]; then
+            # 排除首尾广告行进行比对
+            sed '1d;$d' "$TARGET_FILE" > "$TMP_OLD"
+            if ! diff -q "$TMP_OLD" "$TMP_NEW" > /dev/null; then
+              HAS_CHANGES=true
+            fi
+          else
+            HAS_CHANGES=true
+          fi
+
+          # 3. 写入文件
+          if [ "$HAS_CHANGES" = true ]; then
+            echo "saas.sin.fan:443#▼ 优选IP | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
+            cat "$TMP_NEW" >> "$TARGET_FILE"
+            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢xinyitang3" >> "$TARGET_FILE"
+          fi
+
+          echo "has_changes=$HAS_CHANGES" >> $GITHUB_ENV
+
+      - name: Commit and Push
+        run: |
+          if [ "${{ env.has_changes }}" = "true" ]; then
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add xinyitang3/*.txt
+            git commit -m "xinyitang3 $(date -d "+8 hours" '+%Y-%m-%d %H:%M:%S')"
+            git pull --rebase origin main
+            git push origin main
+          else
+            echo "内容无实质变化，跳过提交。"
+          fi

@@ -3,6 +3,7 @@ name: xinyitang3
 on:
   workflow_dispatch:
 
+# 必须有写入权限
 permissions:
   contents: write
 
@@ -10,55 +11,87 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch and Process Data
+      - name: Process and Compare
         run: |
+          # 1. 环境准备
           mkdir -p xinyitang3
-          BJ_TIME=$(date -d "+8 hours" "+%m-%d %H:%M")
-          # 修改输出文件名为 ipv4.txt
           TARGET_FILE="xinyitang3/ipv4.txt"
           TMP_NEW="new_processed.tmp"
-          TMP_OLD="old_processed.tmp"
           
-          # 1. 下载并处理数据
-          # 格式化逻辑：原内容 | IP:端口
-          curl -s "https://raw.githubusercontent.com/xinyitang3/rules/refs/heads/main/ip.txt" | grep ":" | while read -r line; do
-            ip_port=$(echo "$line" | cut -d'#' -f1)
-            echo "$line | $ip_port" >> "$TMP_NEW"
+          # 2. 获取并校验数据 (带重试机制)
+          echo "正在从 xinyitang3 抓取数据..."
+          MAX_RETRIES=3
+          RETRY_COUNT=0
+          response=""
+
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            response=$(curl -f -s "https://sub.xinyitang.dpdns.org/sub?host=123&uuid=456")
+            
+            if [ $? -eq 0 ] && [ -n "$response" ]; then
+              echo "✅ 数据抓取成功！"
+              break
+            else
+              RETRY_COUNT=$((RETRY_COUNT + 1))
+              echo "⚠️ 抓取失败，正在重试 ($RETRY_COUNT/$MAX_RETRIES)..."
+              sleep 3
+            fi
           done
 
-          # 2. 对比逻辑
+          if [ -z "$response" ]; then
+            echo "❌ 无法获取数据，跳过本次任务。"
+            echo "has_changes=false" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          # 3. 解码并提取 IP:Port
+          # 解码 Base64 并通过正则提取 @ 之后 ? 之前的地址部分
+          decoded_data=$(echo "$response" | base64 -d 2>/dev/null)
+          
+          echo "$decoded_data" | while IFS= read -r line; do
+            if [[ -z "$line" ]]; then continue; fi
+            
+            # 提取 IP:Port
+            ip_port=$(echo "$line" | grep -oP '(?<=@).*?(?=\?)')
+            # 提取标签 (#后面的内容)
+            tag=$(echo "$line" | awk -F'#' '{print $2}')
+            
+            if [[ -n "$ip_port" ]]; then
+              # 按照原来的格式输出: 节点标签 | IP:端口
+              echo "${tag} | ${ip_port}" >> "$TMP_NEW"
+            fi
+          done
+
+          # 4. 对比逻辑
           HAS_CHANGES=false
           if [ -f "$TARGET_FILE" ]; then
             # 排除首尾广告行进行比对
-            sed '1d;$d' "$TARGET_FILE" > "$TMP_OLD"
-            if ! diff -q "$TMP_OLD" "$TMP_NEW" > /dev/null; then
+            sed '1d;$d' "$TARGET_FILE" > old_nodes.tmp
+            if ! diff -q old_nodes.tmp "$TMP_NEW" > /dev/null; then
               HAS_CHANGES=true
             fi
           else
             HAS_CHANGES=true
           fi
 
-          # 3. 写入文件
+          # 5. 构建最终文件
           if [ "$HAS_CHANGES" = true ]; then
+            BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
             echo "saas.sin.fan:443#▼ 优选IP | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
             cat "$TMP_NEW" >> "$TARGET_FILE"
-            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢xinyitang3" >> "$TARGET_FILE"
+            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢Mia" >> "$TARGET_FILE"
+            
+            echo "COMMIT_MSG=Xinyitang3 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
           fi
 
           echo "has_changes=$HAS_CHANGES" >> $GITHUB_ENV
 
       - name: Commit and Push
-        run: |
-          if [ "${{ env.has_changes }}" = "true" ]; then
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            git add xinyitang3/*.txt
-            git commit -m "xinyitang3 $(date -d "+8 hours" '+%Y-%m-%d %H:%M:%S')"
-            git pull --rebase origin main
-            git push origin main
-          else
-            echo "内容无实质变化，跳过提交。"
-          fi
+        if: env.has_changes == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "${{ env.COMMIT_MSG }}"
+          file_pattern: 'xinyitang3/*.txt'
+          skip_dirty_check: true
