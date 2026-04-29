@@ -2,8 +2,6 @@ name: xinyitang3
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 */12 * * *'
 
 permissions:
   contents: write
@@ -14,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -31,7 +31,6 @@ jobs:
 
       - name: Process and Compare
         run: |
-          # 路径变量指向 xinyitang3 目录
           TARGET_FILE="xinyitang3/ipv4.txt"
           TMP_DECODED="xinyitang3/decoded_nodes.tmp"
           TMP_NEW="new_processed.tmp"
@@ -42,7 +41,6 @@ jobs:
             exit 0
           fi
 
-          # 提取 IP:Port 和 标签
           while IFS= read -r line; do
             if [[ -z "$line" ]]; then continue; fi
             ip_port=$(echo "$line" | grep -oP '(?<=@).*?(?=\?)')
@@ -52,10 +50,8 @@ jobs:
             fi
           done < "$TMP_DECODED"
 
-          # 对比逻辑
           HAS_CHANGES=false
           if [ -f "$TARGET_FILE" ]; then
-            # 排除页首页尾进行比对
             sed '1d;$d' "$TARGET_FILE" > old_nodes.tmp
             if ! diff -q old_nodes.tmp "$TMP_NEW" > /dev/null; then
               HAS_CHANGES=true
@@ -64,12 +60,11 @@ jobs:
             HAS_CHANGES=true
           fi
 
-          # 写入文件
           if [ "$HAS_CHANGES" = true ]; then
             BJ_TIME=$(TZ='Asia/Shanghai' date +'%m-%d %H:%M')
             echo "saas.sin.fan:443#▼ 优选IP | $BJ_TIME | YouTube@真香定律" > "$TARGET_FILE"
             cat "$TMP_NEW" >> "$TARGET_FILE"
-            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢xinyitang3" >> "$TARGET_FILE"
+            echo "bestcf.030101.xyz:443#▲ 优选IP | 分享优选网 BestCF.pages.dev | 感谢Xinyitang" >> "$TARGET_FILE"
             echo "COMMIT_MSG=xinyitang3 $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
           fi
 
@@ -80,5 +75,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "${{ env.COMMIT_MSG }}"
-          # 仅提交 txt 文件，不提交脚本和临时文件
           file_pattern: 'xinyitang3/*.txt'
+          push_options: '--force'
+          branch: main
