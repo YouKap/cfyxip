@@ -1,16 +1,15 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 17:37 | YouTube@真香定律
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 18:07 | YouTube@真香定律
 dongbanghong.com:443#dongbanghong.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cf.godns.cc:443#cf.godns.cc
 eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 cnllm.com:443#cnllm.com
-redis.io:443#redis.io
 cdn.2158.cc:443#cdn.2158.cc
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 ys2046.cv:443#ys2046.cv
 cdn.262832.xyz:443#cdn.262832.xyz
+redis.io:443#redis.io
 www.mc.js.cool:443#www.mc.js.cool
 www.jimdo.com:443#www.jimdo.com
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
@@ -27,6 +26,7 @@ cu.877774.xyz:443#cu.877774.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 kniu.cc:443#kniu.cc
