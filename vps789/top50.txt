@@ -1,9 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 18:07 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 04-29 18:37 | YouTube@真香定律
 dongbanghong.com:443#dongbanghong.com
 api.gzcrtw.com:443#api.gzcrtw.com
 cf.godns.cc:443#cf.godns.cc
-eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
-cnllm.com:443#cnllm.com
 cdn.2158.cc:443#cdn.2158.cc
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
@@ -25,28 +23,30 @@ saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
+cnllm.com:443#cnllm.com
 kniu.cc:443#kniu.cc
 cmcc.cc.cd:443#cmcc.cc.cd
 01-qq.com:443#01-qq.com
 www.vastnovel.com:443#www.vastnovel.com
 www.dg22.top:443#www.dg22.top
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
-encryptedsni.com:443#encryptedsni.com
+mming.ggff.net:443#mming.ggff.net
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com:443#cf.v8.longsays.com
+www.ntu.edu.sg:443#www.ntu.edu.sg
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
 nexusmods.com:443#nexusmods.com
 dnew.cc:443#dnew.cc
 www.leics.police.uk:443#www.leics.police.uk
-youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
+eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cf.1o.ee:443#cf.1o.ee
-baka.fun:443#baka.fun
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
