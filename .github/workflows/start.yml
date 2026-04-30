@@ -19,11 +19,11 @@ jobs:
           # 定义任务列表：文件名|等待时间(秒)
           # 你可以在这里非常方便地编辑顺序和时间
           WORKFLOWS=(
-            "gslege.yml|15"
-            "vvhan.yml|15"
-            "nirevil.yml|15"
-            "mingyu.yml|15"
-            "zhixuanwang.yml|15"
+            "gslege.yml|20"
+            "vvhan.yml|20"
+            "nirevil.yml|20"
+            "mingyu.yml|20"
+            "zhixuanwang.yml|20"
             "xinyitang3.yml|90"
             "vps789.yml|90"
             "tiancheng.yml|0"
