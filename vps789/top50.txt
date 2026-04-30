@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 02:39 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 03:09 | YouTube@真香定律
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
 www.nexusmods.com:443#www.nexusmods.com
@@ -15,38 +15,38 @@ www.xiaoshuofen.com:443#www.xiaoshuofen.com
 dongbanghong.com:443#dongbanghong.com
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 www.leics.police.uk:443#www.leics.police.uk
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.mlkj888.com:443#www.mlkj888.com
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
 openai.com:443#openai.com
+us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
+hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 www.sage.com:443#www.sage.com
-cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
-hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 api.gzcrtw.com:443#api.gzcrtw.com
+mfa.gov.ua:443#mfa.gov.ua
 store.epicgames.com:443#store.epicgames.com
+cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf.godns.cc:443#cf.godns.cc
 ys2046.cv:443#ys2046.cv
-mfa.gov.ua:443#mfa.gov.ua
 www.speedtest.net:443#www.speedtest.net
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
+dianomi.com:443#dianomi.com
 chrono24.com:443#chrono24.com
 store.ubi.com:443#store.ubi.com
-dianomi.com:443#dianomi.com
+cfyx.dnspod.20237737.xyz:443#cfyx.dnspod.20237737.xyz
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 www.mfyx.cn:443#www.mfyx.cn
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
 networksolutions.com:443#networksolutions.com
 test.509666.xyz:443#test.509666.xyz
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cu.877774.xyz:443#cu.877774.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
-cfyx.dnspod.20237737.xyz:443#cfyx.dnspod.20237737.xyz
 redis.io:443#redis.io
 cnllm.com:443#cnllm.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
