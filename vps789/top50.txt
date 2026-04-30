@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 05:09 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 05:39 | YouTube@真香定律
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
 y508.com:443#y508.com
@@ -19,28 +19,24 @@ www.cdzxdz.com:443#www.cdzxdz.com
 01-qq.com:443#01-qq.com
 dongbanghong.com:443#dongbanghong.com
 www.leics.police.uk:443#www.leics.police.uk
-cf.xnet.ren:443#cf.xnet.ren
-www.mlkj888.com:443#www.mlkj888.com
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
-yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 openai.com:443#openai.com
 cdn.2020111.xyz:443#cdn.2020111.xyz
+cf.v8.longsays.com:443#cf.v8.longsays.com
 cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
 www.sage.com:443#www.sage.com
 api.gzcrtw.com:443#api.gzcrtw.com
 mfa.gov.ua:443#mfa.gov.ua
 store.epicgames.com:443#store.epicgames.com
-2.cf.3666888.xyz:443#2.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 ys2046.cv:443#ys2046.cv
-cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 www.speedtest.net:443#www.speedtest.net
 www.mc.js.cool:443#www.mc.js.cool
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
@@ -49,4 +45,8 @@ china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468
 store.ubi.com:443#store.ubi.com
 www.5199dy.com:443#www.5199dy.com
 cf.godns.cc:443#cf.godns.cc
+tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
+yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
+ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
+test.509666.xyz:443#test.509666.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
