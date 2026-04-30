@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-30 16:09 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-30 16:39 | YouTube@真香定律
 eii.at:443#eii.at
 cdns.doon.eu.org:443#cdns.doon.eu.org
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
@@ -10,7 +10,6 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cf.727672.xyz:443#cf.727672.xyz
 www.speedtest.net:443#www.speedtest.net
 fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
-cfgo.timelate.com:443#cfgo.timelate.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 dnew.cc:443#dnew.cc
 kniu.cc:443#kniu.cc
@@ -19,4 +18,5 @@ visa.com:443#visa.com
 nexusmods.com:443#nexusmods.com
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.swowd.com:443#www.swowd.com
+www.xiaoshuofen.com:443#www.xiaoshuofen.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
