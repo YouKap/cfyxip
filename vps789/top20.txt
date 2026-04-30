@@ -1,16 +1,17 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 04-30 17:39 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 04-30 18:09 | YouTube@真香定律
 eii.at:443#eii.at
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
 cdn.262832.xyz:443#cdn.262832.xyz
 cf.1o.ee:443#cf.1o.ee
-fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 www.akasantech.com:443#www.akasantech.com
 www.speedtest.net:443#www.speedtest.net
+fw8je9.cf.3666888.xyz:443#fw8je9.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 kniu.cc:443#kniu.cc
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+visa.com:443#visa.com
 nexusmods.com:443#nexusmods.com
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -18,5 +19,4 @@ cfgo.timelate.com:443#cfgo.timelate.com
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 test.509666.xyz:443#test.509666.xyz
-cdn.2020111.xyz:443#cdn.2020111.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
