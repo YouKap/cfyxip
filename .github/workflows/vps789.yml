@@ -24,6 +24,7 @@ jobs:
         run: |
           pip install playwright
           playwright install chromium
+          playwright install-deps chromium
 
       - name: 抓取原始数据
         run: python vps789/crawler.py
