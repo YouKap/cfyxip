@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 06:39 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 07:09 | YouTube@真香定律
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
 y508.com:443#y508.com
@@ -23,7 +23,6 @@ cf.v8.longsays.com:443#cf.v8.longsays.com
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
 www.sloomb.com:443#www.sloomb.com
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 www.sage.com:443#www.sage.com
 api.gzcrtw.com:443#api.gzcrtw.com
 mfa.gov.ua:443#mfa.gov.ua
@@ -39,7 +38,6 @@ run.254301.xyz:443#run.254301.xyz
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 www.visa.com:443#www.visa.com
-www.5199dy.com:443#www.5199dy.com
 cf.godns.cc:443#cf.godns.cc
 tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
@@ -48,5 +46,7 @@ cdn.31514926.xyz:443#cdn.31514926.xyz
 saas.sin.fan:443#saas.sin.fan
 isp.254301.xyz:443#isp.254301.xyz
 test.509666.xyz:443#test.509666.xyz
+www.5199dy.com:443#www.5199dy.com
 cloudflare.cnae.top:443#cloudflare.cnae.top
+redis.io:443#redis.io
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
