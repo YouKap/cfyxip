@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-01 06:09 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-01 06:39 | YouTube@真香定律
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 bbs.alipansou.com:443#bbs.alipansou.com
 y508.com:443#y508.com
@@ -10,13 +10,13 @@ www.shopify.com:443#www.shopify.com
 cdn.262832.xyz:443#cdn.262832.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.jimdo.com:443#www.jimdo.com
-www.5h.com:443#www.5h.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 www.cdzxdz.com:443#www.cdzxdz.com
 01-qq.com:443#01-qq.com
 www.leics.police.uk:443#www.leics.police.uk
-4.cf.3666888.xyz:443#4.cf.3666888.xyz
+cloudflare.cfgo.cc:443#cloudflare.cfgo.cc
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
+cdn.2020111.xyz:443#cdn.2020111.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
