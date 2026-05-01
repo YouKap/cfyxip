@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 08:39 | YouTube@真香定律
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 09:09 | YouTube@真香定律
 bbs.alipansou.com:443#bbs.alipansou.com
 zeas.top:443#zeas.top
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
@@ -33,6 +32,7 @@ saas.sin.fan:443#saas.sin.fan
 isp.254301.xyz:443#isp.254301.xyz
 test.509666.xyz:443#test.509666.xyz
 www.5199dy.com:443#www.5199dy.com
+staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 redis.io:443#redis.io
 www.mc.js.cool:443#www.mc.js.cool
 cnllm.com:443#cnllm.com
@@ -40,7 +40,6 @@ cnllm.com:443#cnllm.com
 y508.com:443#y508.com
 shanghai.mfa.gov.ua:443#shanghai.mfa.gov.ua
 ctsg.cfyx.aliyun.20237737.xyz:443#ctsg.cfyx.aliyun.20237737.xyz
-ping.pe:443#ping.pe
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
@@ -49,4 +48,5 @@ cloudflare.182682.xyz:443#cloudflare.182682.xyz
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cu.877774.xyz:443#cu.877774.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
+www.fastsoso.cn:443#www.fastsoso.cn
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测

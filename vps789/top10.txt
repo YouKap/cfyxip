@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-01 08:39 | YouTube@真香定律
-staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-01 09:09 | YouTube@真香定律
 bbs.alipansou.com:443#bbs.alipansou.com
 zeas.top:443#zeas.top
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
@@ -9,4 +8,5 @@ cdn.262832.xyz:443#cdn.262832.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 www.jimdo.com:443#www.jimdo.com
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
+www.cdzxdz.com:443#www.cdzxdz.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
