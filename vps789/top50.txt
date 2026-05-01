@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 17:39 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 18:09 | YouTube@真香定律
 cdns.doon.eu.org:443#cdns.doon.eu.org
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 www.jimdo.com:443#www.jimdo.com
@@ -32,7 +32,6 @@ y508.com:443#y508.com
 zeas.top:443#zeas.top
 api.gzcrtw.com:443#api.gzcrtw.com
 saas.sin.fan:443#saas.sin.fan
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 cdn.7zz.cn:443#cdn.7zz.cn
@@ -40,8 +39,6 @@ www.giannidelprete.it:443#www.giannidelprete.it
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 openai.com:443#openai.com
-tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
-www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
 www.5h.com:443#www.5h.com
 www.leics.police.uk:443#www.leics.police.uk
@@ -49,4 +46,7 @@ cfyx.qdqqd.com:443#cfyx.qdqqd.com
 test.509666.xyz:443#test.509666.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.cdzxdz.com:443#www.cdzxdz.com
+cnllm.com:443#cnllm.com
+www.akasantech.com:443#www.akasantech.com
+cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
