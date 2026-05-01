@@ -1,14 +1,14 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-02 02:39 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-02 03:09 | YouTube@真香定律
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 openai.com:443#openai.com
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
 www.swowd.com:443#www.swowd.com
-y508.com:443#y508.com
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
 101yaoye.com:443#101yaoye.com
-www.vastnovel.com:443#www.vastnovel.com
+y508.com:443#y508.com
 www.akasantech.com:443#www.akasantech.com
 www.cdzxdz.com:443#www.cdzxdz.com
+www.vastnovel.com:443#www.vastnovel.com
 isp.qzz.io:443#isp.qzz.io
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -17,22 +17,23 @@ cf.090227.xyz:443#cf.090227.xyz
 www.visa.com:443#www.visa.com
 www.5h.com:443#www.5h.com
 3.cf.3666888.xyz:443#3.cf.3666888.xyz
+cmcc.cc.cd:443#cmcc.cc.cd
 api.gzcrtw.com:443#api.gzcrtw.com
 www.5199dy.com:443#www.5199dy.com
 store.ubi.com:443#store.ubi.com
 cf.godns.cc:443#cf.godns.cc
 www.sage.com:443#www.sage.com
-www.jimdo.com:443#www.jimdo.com
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
 01-cctv.com:443#01-cctv.com
 01-qq.com:443#01-qq.com
 mskcc.org:443#mskcc.org
 www.speedtest.net:443#www.speedtest.net
+www.jimdo.com:443#www.jimdo.com
 china.mfa.gov.ua:443#china.mfa.gov.ua
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+test.509666.xyz:443#test.509666.xyz
 cf.1o.ee:443#cf.1o.ee
-8.cf.3666888.xyz:443#8.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 kniu.cc:443#kniu.cc
 www.mlkj888.com:443#www.mlkj888.com
@@ -41,12 +42,11 @@ dongbanghong.com:443#dongbanghong.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cloudflare.cnae.top:443#cloudflare.cnae.top
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
-test.509666.xyz:443#test.509666.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 dnew.cc:443#dnew.cc
 www.leics.police.uk:443#www.leics.police.uk
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
+8.cf.3666888.xyz:443#8.cf.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
