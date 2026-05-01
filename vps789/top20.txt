@@ -1,17 +1,13 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-01 17:09 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-01 17:39 | YouTube@真香定律
 cdns.doon.eu.org:443#cdns.doon.eu.org
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 www.jimdo.com:443#www.jimdo.com
-www.cdzxdz.com:443#www.cdzxdz.com
-www.shopify.com:443#www.shopify.com
 ys2046.cv:443#ys2046.cv
+www.shopify.com:443#www.shopify.com
 www.nexusmods.com:443#www.nexusmods.com
 cf.090227.xyz:443#cf.090227.xyz
 cf.godns.cc:443#cf.godns.cc
 kniu.cc:443#kniu.cc
-cdn.262832.xyz:443#cdn.262832.xyz
-cnllm.com:443#cnllm.com
-www.leics.police.uk:443#www.leics.police.uk
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
@@ -19,4 +15,8 @@ cdn.2158.cc:443#cdn.2158.cc
 cu.877774.xyz:443#cu.877774.xyz
 www.mc.js.cool:443#www.mc.js.cool
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
+www.mlkj888.com:443#www.mlkj888.com
+01-qq.com:443#01-qq.com
+cdn.2x.nz:443#cdn.2x.nz
+2x.nz:443#2x.nz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
