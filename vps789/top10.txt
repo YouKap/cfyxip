@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-01 21:39 | YouTube@真香定律
-www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-01 22:09 | YouTube@真香定律
 www.jimdo.com:443#www.jimdo.com
 y508.com:443#y508.com
 api.gzcrtw.com:443#api.gzcrtw.com
@@ -9,4 +8,5 @@ www.5h.com:443#www.5h.com
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.godns.cc:443#cf.godns.cc
 kniu.cc:443#kniu.cc
+01-qq.com:443#01-qq.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测

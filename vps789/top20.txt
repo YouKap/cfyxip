@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-01 21:39 | YouTube@真香定律
-www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-01 22:09 | YouTube@真香定律
 www.jimdo.com:443#www.jimdo.com
 y508.com:443#y508.com
 api.gzcrtw.com:443#api.gzcrtw.com
@@ -11,12 +10,13 @@ cf.godns.cc:443#cf.godns.cc
 kniu.cc:443#kniu.cc
 01-qq.com:443#01-qq.com
 www.5199dy.com:443#www.5199dy.com
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 www.mc.js.cool:443#www.mc.js.cool
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测

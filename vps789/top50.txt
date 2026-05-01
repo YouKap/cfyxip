@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 21:39 | YouTube@真香定律
-www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-01 22:09 | YouTube@真香定律
 www.jimdo.com:443#www.jimdo.com
 y508.com:443#y508.com
 api.gzcrtw.com:443#api.gzcrtw.com
@@ -11,19 +10,19 @@ cf.godns.cc:443#cf.godns.cc
 kniu.cc:443#kniu.cc
 01-qq.com:443#01-qq.com
 www.5199dy.com:443#www.5199dy.com
-yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 ys2046.cv:443#ys2046.cv
 cdns.doon.eu.org:443#cdns.doon.eu.org
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
+youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 www.mc.js.cool:443#www.mc.js.cool
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 2x.nz:443#2x.nz
 dongbanghong.com:443#dongbanghong.com
 cmcc.877774.xyz:443#cmcc.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
 www.nexusmods.com:443#www.nexusmods.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
@@ -31,22 +30,23 @@ www.cdzxdz.com:443#www.cdzxdz.com
 101yaoye.com:443#101yaoye.com
 www.vastnovel.com:443#www.vastnovel.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
+tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 bbs.alipansou.com:443#bbs.alipansou.com
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+cfyx.qdqqd.com:443#cfyx.qdqqd.com
+www.galgamex.net:443#www.galgamex.net
+isp.qzz.io:443#isp.qzz.io
 zeas.top:443#zeas.top
 cdn.2x.nz:443#cdn.2x.nz
-nexusmods.com:443#nexusmods.com
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 baka.fun:443#baka.fun
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 openai.com:443#openai.com
-tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 www.fastsoso.cn:443#www.fastsoso.cn
 www.leics.police.uk:443#www.leics.police.uk
-cfyx.qdqqd.com:443#cfyx.qdqqd.com
-3.cf.3666888.xyz:443#3.cf.3666888.xyz
 cdn.2158.cc:443#cdn.2158.cc
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+cnllm.com:443#cnllm.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
