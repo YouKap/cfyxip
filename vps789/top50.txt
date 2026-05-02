@@ -1,24 +1,22 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-02 14:39 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-02 15:09 | YouTube@真香定律
 openai.com:443#openai.com
-us.cloudflare.cnae.top:443#us.cloudflare.cnae.top
 yyurl.cc:443#yyurl.cc
 www.sloomb.com:443#www.sloomb.com
 www.visa.com:443#www.visa.com
+www.sage.com:443#www.sage.com
 chrono24.com:443#chrono24.com
 www.visa.com.sg:443#www.visa.com.sg
-www.sage.com:443#www.sage.com
 cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 cmcc.cc.cd:443#cmcc.cc.cd
-www.5199dy.com:443#www.5199dy.com
 www.5h.com:443#www.5h.com
-yidong.19931101.xyz:443#yidong.19931101.xyz
-cf.1o.ee:443#cf.1o.ee
 5.cf.3666888.xyz:443#5.cf.3666888.xyz
+yidong.19931101.xyz:443#yidong.19931101.xyz
+www.5199dy.com:443#www.5199dy.com
+cf.1o.ee:443#cf.1o.ee
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 yg6.ygkkk.dpdns.org:443#yg6.ygkkk.dpdns.org
 mming.ggff.net:443#mming.ggff.net
 zeas.top:443#zeas.top
-cf.v8.longsays.com:443#cf.v8.longsays.com
 nexusmods.com:443#nexusmods.com
 www.jimdo.com:443#www.jimdo.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
@@ -26,8 +24,10 @@ ys2046.cv:443#ys2046.cv
 cf.godns.cc:443#cf.godns.cc
 cfyx.qdqqd.com:443#cfyx.qdqqd.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
+cf.v8.longsays.com:443#cf.v8.longsays.com
 cdn.262832.xyz:443#cdn.262832.xyz
 dnew.cc:443#dnew.cc
+cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 test.509666.xyz:443#test.509666.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
 eii.at:443#eii.at
@@ -39,14 +39,14 @@ www.akasantech.com:443#www.akasantech.com
 cf.553314.xyz:443#cf.553314.xyz
 store.ubi.com:443#store.ubi.com
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-www.vastnovel.com:443#www.vastnovel.com
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+www.shopify.com:443#www.shopify.com
+saas.sin.fan:443#saas.sin.fan
 cu.877774.xyz:443#cu.877774.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 cloudflare.cnae.top:443#cloudflare.cnae.top
 cf.3666888.xyz:443#cf.3666888.xyz
 bbs.alipansou.com:443#bbs.alipansou.com
 www.mc.js.cool:443#www.mc.js.cool
-www.leics.police.uk:443#www.leics.police.uk
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
