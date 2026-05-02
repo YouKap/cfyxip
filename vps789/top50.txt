@@ -1,11 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-03 06:09 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-03 06:39 | YouTube@真香定律
 cf.godns.cc:443#cf.godns.cc
 ys2046.cv:443#ys2046.cv
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 openai.com:443#openai.com
 cloudflare.cnae.top:443#cloudflare.cnae.top
 bbs.alipansou.com:443#bbs.alipansou.com
-store.ubi.com:443#store.ubi.com
 www.nexusmods.com:443#www.nexusmods.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 zeas.top:443#zeas.top
@@ -21,22 +20,19 @@ cf.998866.top:443#cf.998866.top
 run.254301.xyz:443#run.254301.xyz
 www.mfyx.cn:443#www.mfyx.cn
 www.xflash.vip:443#www.xflash.vip
+mming.ggff.net:443#mming.ggff.net
 cdn.262832.xyz:443#cdn.262832.xyz
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
 www.dg22.top:443#www.dg22.top
-mming.ggff.net:443#mming.ggff.net
 www.mc.js.cool:443#www.mc.js.cool
 vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 cdn.091224.xyz:443#cdn.091224.xyz
 chrono24.com:443#chrono24.com
 www.visa.com.sg:443#www.visa.com.sg
 nexusmods.com:443#nexusmods.com
-www.leics.police.uk:443#www.leics.police.uk
 cf.v8.longsays.com:443#cf.v8.longsays.com
 ct.877774.xyz:443#ct.877774.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
-7.cf.3666888.xyz:443#7.cf.3666888.xyz
-www.bangbenjiaju.com:443#www.bangbenjiaju.com
 yidong.19931101.xyz:443#yidong.19931101.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
@@ -45,8 +41,12 @@ tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
+www.leics.police.uk:443#www.leics.police.uk
 cdn.2158.cc:443#cdn.2158.cc
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
 www.sofi.com:443#www.sofi.com
 y508.com:443#y508.com
+yyurl.cc:443#yyurl.cc
+saas.sin.fan:443#saas.sin.fan
+test.509666.xyz:443#test.509666.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
