@@ -1,11 +1,11 @@
-saas.sin.fan:443#▼ 优选域名 TOP10 | 05-03 20:40 | YouTube@真香定律
-yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
+saas.sin.fan:443#▼ 优选域名 TOP10 | 05-03 21:09 | YouTube@真香定律
 openai.com:443#openai.com
+store.ubi.com:443#store.ubi.com
+yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 y508.com:443#y508.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
-store.ubi.com:443#store.ubi.com
 www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
 dnew.cc:443#dnew.cc
