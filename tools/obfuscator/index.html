@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Cloudflare JS混淆工具</title>
     <script src="index.browser.js"></script>
-    <!--  <script src="jszip.min.js"></script> -->
     <style>
         :root {
             --bg-color: #121212;
@@ -15,7 +14,6 @@
             --primary-blue: #2196f3;
         }
 
-        /* 基础重置 */
         * { box-sizing: border-box; margin: 0; padding: 0; }
 
         body { 
@@ -27,7 +25,6 @@
             justify-content: center;
             min-height: 100vh;
             padding: 15px;
-            overflow-x: hidden;
         }
 
         .main-container {
@@ -53,7 +50,6 @@
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            word-break: break-all;
         }
 
         #drop-zone.dragover { border-color: var(--primary-blue); background-color: rgba(33,150,243,0.05); }
@@ -62,33 +58,16 @@
         .dz-text { color: #888; font-size: 14px; }
 
         #file-info { display: none; text-align: center; width: 100%; }
-        #filename-text { color: var(--primary-blue); font-weight: bold; font-size: 15px; margin-top: 8px; padding: 0 5px; }
+        #filename-text { color: var(--primary-blue); font-weight: bold; font-size: 15px; margin-top: 8px; }
 
         .actions { margin-top: 20px; }
 
-        .config-selector {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-bottom: 20px;
+        .config-info {
+            text-align: center;
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 15px;
         }
-
-        .radio-label {
-            display: flex;
-            align-items: center;
-            cursor: pointer;
-            font-size: 14px;
-            color: #888;
-            transition: color 0.2s;
-        }
-
-        .radio-label input {
-            margin-right: 2px;
-            cursor: pointer;
-            accent-color: var(--primary-blue);
-        }
-
-        .radio-label:hover { color: var(--primary-blue); }
 
         button { 
             width: 100%;
@@ -110,20 +89,16 @@
             color: #888;
             text-decoration: none;
             font-size: 14px;
-            transition: color 0.2s;
             text-align: center;
         }
 
-        .footer-link:hover {
-            color: var(--primary-blue);
-            text-decoration: underline;
-        }        
+        .footer-link:hover { color: var(--primary-blue); text-decoration: underline; }        
     </style>
 </head>
 <body>
 
     <div class="main-container">
-        <h2>Cloudflare JS混淆工具</h2>
+        <h2>Cloudflare JS 混淆工具</h2>
         
         <div id="drop-zone">
             <div id="dz-prompt">
@@ -140,19 +115,7 @@
         <input type="file" id="file-input" accept=".js" style="display: none;">
 
         <div class="actions">
-            <div class="config-selector">
-                <label class="radio-label">
-                    <input type="radio" name="ob-level" value="weak" checked>
-                    <span>弱混淆(推荐)</span>
-                </label>
-                <label class="radio-label">
-                    <input type="radio" name="ob-level" value="strong">
-                    <span>强混淆(CPU耗时约8ms)</span>
-                </label>
-            </div>
-
-            <button id="process-btn" disabled>混淆并下载</button>
-            <br>
+            <button id="process-btn" disabled>开始混淆并下载</button>
             <a href="https://www.youtube.com/@zhenxiangdinglv" target="_blank" class="footer-link">YouTube@真香定律</a>
         </div>
     </div>
@@ -166,14 +129,13 @@
         const processBtn = document.getElementById('process-btn');
         let selectedFile = null;
 
-        // 基础事件
+        // 拖拽逻辑
         ['dragenter', 'dragover', 'dragleave', 'drop'].forEach(name => {
             dropZone.addEventListener(name, e => { e.preventDefault(); e.stopPropagation(); });
         });
 
         dropZone.addEventListener('dragover', () => dropZone.classList.add('dragover'));
         ['dragleave', 'drop'].forEach(name => dropZone.addEventListener(name, () => dropZone.classList.remove('dragover')));
-
         dropZone.addEventListener('drop', e => handleFiles(e.dataTransfer.files));
         dropZone.onclick = () => fileInput.click();
         fileInput.onchange = e => handleFiles(e.target.files);
@@ -189,44 +151,99 @@
             }
         }
         
-        // 1. 增加下载前的类型检查和更好的 iOS 兼容性支持
         processBtn.onclick = () => {
             if (!selectedFile) return;
             
-            // 显示处理中状态，防止重复点击
             processBtn.disabled = true;
-            processBtn.innerText = "处理中...";
+            processBtn.innerText = "混淆中...";
         
             const reader = new FileReader();
-            const level = document.querySelector('input[name="ob-level"]:checked').value;
         
             reader.onload = async (e) => {
                 try {
-                    const config = {
-                        compact: true,
-                        renameGlobals: true, 
-                        identifierNamesGenerator: 'hexadecimal', 
-                        unicodeEscapeSequence: true, 
-                        numbersToExpressions: true,
-                        stringArray: true,
-                        stringArrayEncoding: ['base64'],
-                        stringArrayThreshold: 1,
-                        controlFlowFlattening: level === 'strong',
-                        simplify: level === 'strong'
-                    };
+					const config = {
+						// ==================== 基础输出配置 ====================
+						compact: true,                          // 压缩代码至一行，减少体积，提升 Worker 加载速度
+						sourceMap: false,                       // 关闭 source map，生产环境不需要，避免暴露原始代码结构
+						target: 'browser',                      // 输出目标为浏览器环境，适配 Cloudflare Workers 的 V8 引擎
+						
+						// ==================== 控制流保护（完全禁用，避免 CPU 超时） ====================
+						controlFlowFlattening: false,           // 禁用控制流扁平化，Workers 中复杂的控制流转换会导致 CPU 时间超限
+						controlFlowFlatteningThreshold: 0,      // 扁平化概率设为 0，与上一项配合完全禁用该功能
+						deadCodeInjection: false,               // 禁用死代码注入，保持代码轻量，减少 Worker 内存占用
+						simplify: true,                         // 启用逻辑简化，清理死代码和不可达分支，避免无效代码残留
+						
+						// ==================== 变量名混淆配置 ====================
+						renameGlobals: false,                   // 禁用全局变量混淆，防止 Worker 核心对象（self、postMessage 等）被重命名导致崩溃
+						identifierNamesGenerator: 'mangled-shuffled', // 生成极短且随机的局部变量名（如 a、b、c），优化体积
+						identifierNamesCache: null,             // 不使用变量名缓存，每次混淆生成全新命名，增加逆向难度
+						identifiersPrefix: '',                  // 不添加变量名前缀，保持变量名最短，最大化压缩效果
+						
+						// 全局保留字列表（配合 renameGlobals: false，此配置作为保险，防止某些场景下的误重命名）
+						reservedNames: [                        // 保护 Worker 环境必需的关键标识符
+							'^self$', '^postMessage$', '^onmessage$', '^close$',     // Worker 核心 API
+							'^addEventListener$', '^removeEventListener$',          // 事件监听 API
+							'^fetch$', '^Request$', '^Response$', '^Headers$',      // Fetch API 相关
+							'^crypto$', '^subtle$',                                 // 加密 API
+							'^performance$', '^Date$', '^setTimeout$', '^clearTimeout$', // 定时器和性能 API
+							'^setInterval$', '^clearInterval$',                     // 间隔定时器
+							'^console$', '^debugger$',                              // 调试相关
+							'^env$', '^ctx$', '^context$', '^request$',             // Worker 自定义上下文
+							'^import\\.meta$', '^import\\.meta\\.url$'             // ES 模块元信息
+						],
+						
+						// ==================== 属性名混淆（完全禁用，确保 API 调用安全） ====================
+						renameProperties: false,                // 严格禁用属性名混淆，确保对象属性访问、JSON 解析、API 调用 100% 正常
+						renamePropertiesMode: 'safe',           // 安全模式重命名属性（与上一项配合，虽禁用但仍设置为 safe）
+						
+						// ==================== 字符串深度保护（优化版，平衡安全与兼容性） ====================
+						stringArray: true,                      // 开启全局字符串阵列，将所有字符串提取到统一数组
+						stringArrayEncoding: ['none'],          // 【修正】禁用编码，使用 'none' 而非 false，避免运行时解码开销
+						stringArrayThreshold: 0.8,              // 80% 字符串进入阵列，保留 20% 原始字符串确保兼容性
+						stringArrayRotate: false,               // 禁用数组旋转，避免字符串访问时的复杂变换
+						stringArrayShuffle: true,               // 随机打乱字符串数组顺序，让静态分析无法直接匹配字符串
+						stringArrayWrappersCount: 1,            // 使用 1 层包装函数，减少函数调用栈深度，提升执行效率
+						stringArrayWrappersType: 'variable',    // 使用变量类型包装器，比 function 类型性能更好
+						stringArrayWrappersChainedCalls: false, // 禁用包装函数的链式调用，避免运行时错误
+						stringArrayWrappersParametersMaxCount: 2, // 包装函数最多 2 个参数，平衡防护强度和性能
+						stringArrayCallsTransform: false,       // 禁用字符串调用转换，降低运行时复杂度
+						
+						// ==================== 字符串拆分（完全禁用，该选项是兼容性最大隐患） ====================
+						splitStrings: false,                    // 禁用字符串拆分，避免破坏 eval、import.meta 等动态代码
+						splitStringsChunkLength: 5,             // 字符串拆分块长度（splitStrings 为 false 时此值无效，设为默认值 5）
+						
+						// ==================== 字符转义配置 ====================
+						unicodeEscapeSequence: false,           // 禁用 Unicode 转义，避免体积膨胀和正则表达式构造错误
+						
+						// ==================== 数字保护（追求性能，禁用） ====================
+						numbersToExpressions: false,            // 不将数字转换为数学表达式，避免大型循环中的额外计算开销
+						
+						// ==================== 对象键名保护 ====================
+						transformObjectKeys: false,             // 不转换对象键名，确保对象结构可预测
+						
+						// ==================== 自保护和反调试（Worker 环境下必须禁用） ====================
+						selfDefending: false,                   // 禁用自我防御，Worker 环境中开启该选项极易导致运行时错误
+						debugProtection: false,                 // 禁用反调试保护，不影响正常执行
+						debugProtectionInterval: 0,             // 反调试检查间隔设为 0
+						
+						// ==================== 控制台输出 ====================
+						disableConsoleOutput: false,            // 保留 console 输出，许多库依赖 console 进行状态检测和调试
+						
+						// ==================== 其他配置 ====================
+						domainLock: [],                         // 不锁定域名，保持部署灵活性，Worker 可跨域名使用
+						ignoreImports: true                     // 忽略 import 语句，直接处理 ES6 模块导入，避免解析错误
+					};
         
-                    // 注意：如果库没加载成功会报错
                     if (typeof JavaScriptObfuscator === 'undefined') {
-                        throw new Error("混淆库加载失败，请检查网络");
+                        throw new Error("JavaScriptObfuscator 库未加载，请检查 index.browser.js 是否引入正确");
                     }
         
                     const obfuscationResult = JavaScriptObfuscator.obfuscate(e.target.result, config);
                     const obfuscatedCode = obfuscationResult.getObfuscatedCode();
         
-                    // 增强型下载逻辑
+                    // 下载处理
                     const blob = new Blob([obfuscatedCode], { type: 'application/javascript;charset=utf-8' });
                     const url = window.URL.createObjectURL(blob);
-                    
                     const a = document.createElement('a');
                     a.style.display = 'none';
                     a.href = url;
@@ -235,19 +252,18 @@
                     document.body.appendChild(a);
                     a.click();
                     
-                    // 延迟移除和释放内存，对部分移动端浏览器更稳健
                     setTimeout(() => {
                         document.body.removeChild(a);
                         window.URL.revokeObjectURL(url);
                         processBtn.disabled = false;
-                        processBtn.innerText = "混淆并下载";
+                        processBtn.innerText = "开始混淆并下载";
                     }, 100);
         
                 } catch (err) {
                     console.error(err);
-                    alert("错误: " + err.message);
+                    alert("混淆失败: " + err.message);
                     processBtn.disabled = false;
-                    processBtn.innerText = "混淆并下载";
+                    processBtn.innerText = "开始混淆并下载";
                 }
             };
             reader.readAsText(selectedFile);
