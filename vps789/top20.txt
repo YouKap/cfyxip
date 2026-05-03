@@ -1,14 +1,15 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-03 17:40 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-03 18:10 | YouTube@真香定律
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-cdns.doon.eu.org:443#cdns.doon.eu.org
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 y508.com:443#y508.com
 store.ubi.com:443#store.ubi.com
 www.fastsoso.cn:443#www.fastsoso.cn
 bbs.alipansou.com:443#bbs.alipansou.com
-www.nexusmods.com:443#www.nexusmods.com
-dnew.cc:443#dnew.cc
 cf.mubaiovo.top:443#cf.mubaiovo.top
+yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
+www.nexusmods.com:443#www.nexusmods.com
+cmcc.cc.cd:443#cmcc.cc.cd
+dnew.cc:443#dnew.cc
 markmonitor.com:443#markmonitor.com
 cf.xnet.ren:443#cf.xnet.ren
 adnjv.cf.3666888.xyz:443#adnjv.cf.3666888.xyz
@@ -18,5 +19,4 @@ eteaf.cf.3666888.xyz:443#eteaf.cf.3666888.xyz
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
 prompt.gzcrtw.com:443#prompt.gzcrtw.com
 www.sloomb.com:443#www.sloomb.com
-www.akasantech.com:443#www.akasantech.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
