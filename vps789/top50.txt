@@ -1,15 +1,12 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-03 08:09 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-03 08:39 | YouTube@真香定律
 cf.godns.cc:443#cf.godns.cc
 ys2046.cv:443#ys2046.cv
-freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 openai.com:443#openai.com
 cloudflare.cnae.top:443#cloudflare.cnae.top
 bbs.alipansou.com:443#bbs.alipansou.com
 www.nexusmods.com:443#www.nexusmods.com
 www.xiaoshuofen.com:443#www.xiaoshuofen.com
-zeas.top:443#zeas.top
 cf.553314.xyz:443#cf.553314.xyz
-www.sage.com:443#www.sage.com
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.mubaiovo.top:443#cf.mubaiovo.top
@@ -30,23 +27,26 @@ ct.877774.xyz:443#ct.877774.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 yidong.19931101.xyz:443#yidong.19931101.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-youxuan.cf.3666888.xyz:443#youxuan.cf.3666888.xyz
+y508.com:443#y508.com
+cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
 www.fastsoso.cn:443#www.fastsoso.cn
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
 virtualcommtraining.verizon.com:443#virtualcommtraining.verizon.com
 www.leics.police.uk:443#www.leics.police.uk
-cdn.2158.cc:443#cdn.2158.cc
+cfdl.3666888.xyz:443#cfdl.3666888.xyz
 yg7.ygkkk.dpdns.org:443#yg7.ygkkk.dpdns.org
-yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.sofi.com:443#www.sofi.com
-y508.com:443#y508.com
 saas.sin.fan:443#saas.sin.fan
+freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 test.509666.xyz:443#test.509666.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 baka.fun:443#baka.fun
 cmcc.cc.cd:443#cmcc.cc.cd
 yyurl.cc:443#yyurl.cc
 ping.pe:443#ping.pe
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
+cu.877774.xyz:443#cu.877774.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
