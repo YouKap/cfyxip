@@ -28,6 +28,7 @@ www.vastnovel.com
 www.giannidelprete.it
 freeyx.cloudflare88.eu.org
 cdns.doon.eu.org
+cf-cname.xingpingcn.top
 cf.3666888.xyz
 dnew.cc
 www.mc.js.cool
@@ -55,6 +56,7 @@ hfqek.cf.3666888.xyz
 cdn.262832.xyz
 isp.254301.xyz
 www.cdzxdz.com
+cnllm.com
 nexusmods.com
 cloudflare.182682.xyz
 cmcc.877774.xyz
@@ -77,8 +79,8 @@ chrono24.com
 yyurl.cc
 mskcc.org
 mogas.com
+www.5h.com
 10.cf.3666888.xyz
-yg3.ygkkk.dpdns.org
 www.bangbenjiaju.com
 investor.apple.com
 china-mobile.cname.cloudflare.468123.xyz
@@ -90,10 +92,10 @@ www.visa.com.sg
 cfvip.cf.3666888.xyz
 cloudflare-ip.mofashi.ltd
 www.visa.com
-www.5h.com
 a.lma.de5.net
 cdn.555586.xyz
 6.cf.3666888.xyz
+yg3.ygkkk.dpdns.org
 my.dnshe.com
 cdn.2x.nz
 zero-trust-client.cloudflareclient.com
@@ -114,7 +116,6 @@ virtualcommtraining.verizon.com
 networksolutions.com
 qocu.cf.3666888.xyz
 eteaf.cf.3666888.xyz
-test.509666.xyz
 staticdelivery.nexusmods.com
 cloudflare.cnae.top
 snipaste5.speedip.eu.org
@@ -131,7 +132,6 @@ cdn.tzpro.xyz
 www.ntu.edu.sg
 cfdl.3666888.xyz
 zeas.top
-cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz
 x.com
 cloudflare.rainyfall.com
@@ -142,6 +142,7 @@ cdn.31514926.xyz
 nrt.xxxxxxxx.nyc.mn
 stlouiscountymo.gov
 cdn.cf.3666888.xyz
+cloudflare.cfgo.cc
 redis.io
 jobsdb.com
 isp.qzz.io
@@ -150,12 +151,11 @@ yapuyapu.com
 dango.co
 101yaoye.com
 i.111666.best
-cloudflare.cfgo.cc
 cfyx.dnspod.20237737.xyz
 stackoverflow.com
 8.cf.3666888.xyz
+test.509666.xyz
 cdn.2158.cc
-cnllm.com
 dianxin.19931101.xyz
 www.xflash.vip
 page.mercer.com
@@ -169,7 +169,6 @@ dns.163189.xyz
 china-unicom.cname.cloudflare.468123.xyz
 xn--b6gac.eu.org
 ddk.cfyx.20237737.xyz
-email.lg.com
 kuaidianlian.com.cn
 cf.998866.top
 china-telecom.cname.cloudflare.468123.xyz
@@ -179,18 +178,18 @@ www.trump.com
 api.gzcrtw.com
 mming.ggff.net
 www.speedtest.net
+email.lg.com
 dianomi.com
 yg4.ygkkk.dpdns.org
 cnamefuckxxs.yuchen.icu
 www.visa.com.tw
-mfa.gov.ua
 cm.880849.xyz
 cu.880849.xyz
 www.dg22.top
 envato.com
 cf.0sm.com
 bestcf.top
-www.whoer.net
+mfa.gov.ua
 cmcc.vvvv.ee
 www.ox.ac.uk
 china.mfa.gov.ua
@@ -198,3 +197,4 @@ www.6i5.com
 imooo.de
 cf.duun.eu.cc
 cf.877774.xyz
+kniu.cc

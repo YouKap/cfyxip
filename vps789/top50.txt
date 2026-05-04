@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-04 07:40 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-04 08:09 | YouTube@真香定律
 store.ubi.com:443#store.ubi.com
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
@@ -29,6 +29,7 @@ www.vastnovel.com:443#www.vastnovel.com
 www.giannidelprete.it:443#www.giannidelprete.it
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdns.doon.eu.org:443#cdns.doon.eu.org
+cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.3666888.xyz:443#cf.3666888.xyz
 dnew.cc:443#dnew.cc
 www.mc.js.cool:443#www.mc.js.cool
@@ -48,5 +49,4 @@ fk.hshwk.org:443#fk.hshwk.org
 cf.090227.xyz:443#cf.090227.xyz
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 saas.sin.fan:443#saas.sin.fan
-cf.godns.cc:443#cf.godns.cc
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
