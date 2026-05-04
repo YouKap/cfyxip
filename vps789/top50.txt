@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-04 11:10 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-04 11:40 | YouTube@真香定律
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
@@ -26,9 +26,7 @@ cdns.doon.eu.org:443#cdns.doon.eu.org
 cf-cname.xingpingcn.top:443#cf-cname.xingpingcn.top
 cf.3666888.xyz:443#cf.3666888.xyz
 dnew.cc:443#dnew.cc
-sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 uac.cf.3666888.xyz:443#uac.cf.3666888.xyz
-1.cf.3666888.xyz:443#1.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cf-ip-node.vov.moe:443#cf-ip-node.vov.moe
@@ -36,17 +34,19 @@ y508.com:443#y508.com
 www.sloomb.com:443#www.sloomb.com
 fk.hshwk.org:443#fk.hshwk.org
 cf.090227.xyz:443#cf.090227.xyz
-cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
 saas.sin.fan:443#saas.sin.fan
 cf.godns.cc:443#cf.godns.cc
 www.fastsoso.cn:443#www.fastsoso.cn
-cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cf1s.cf.3666888.xyz:443#cf1s.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#hfqek.cf.3666888.xyz
 cf.1o.ee:443#cf.1o.ee
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
 isp.254301.xyz:443#isp.254301.xyz
 www.cdzxdz.com:443#www.cdzxdz.com
 cnllm.com:443#cnllm.com
-keji.cf.3666888.xyz:443#keji.cf.3666888.xyz
+www.sage.com:443#www.sage.com
+01-qq.com:443#01-qq.com
+cmcc.877774.xyz:443#cmcc.877774.xyz
+eason.cf.lma.de5.net:443#eason.cf.lma.de5.net
+cf.xnet.ren:443#cf.xnet.ren
+4.cf.3666888.xyz:443#4.cf.3666888.xyz
 bestcf.030101.xyz:443#▲ 优选域名 | 分享优选网 BestCF.pages.dev | VPS789 7*24监测
